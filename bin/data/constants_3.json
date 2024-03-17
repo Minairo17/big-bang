@@ -1,0 +1,4864 @@
+{
+  "particles": {
+    "n": {
+      "name": "neutron",
+      "mass": 939.56542052,
+      "charge": 0,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 1.0
+      }
+    },
+    "n_bar": {
+      "name": "anti-neutron",
+      "mass": 939.56542052,
+      "charge": 0,
+      "type": "antimatter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 1.0
+      }
+    },
+    "gamma": {
+      "name": "photon",
+      "mass": 0.0,
+      "charge": 0,
+      "type": "boson",
+      "settings": {
+        "color": "0xFAD232",
+        "radius": 1.0
+      }
+    },
+    "e-": {
+      "name": "electron",
+      "mass": 0.51,
+      "charge": -1,
+      "type": "matter",
+      "settings": {
+        "color": "0x5EB95E",
+        "radius": 1.0
+      }
+    },
+    "e+": {
+      "name": "positron",
+      "mass": 0.51,
+      "charge": 1,
+      "type": "antimatter",
+      "settings": {
+        "color": "0x5EB95E",
+        "radius": 1.0
+      }
+    },
+    "nu_e": {
+      "name": "neutrino",
+      "mass": 1.1e-06,
+      "charge": 0,
+      "type": "matter",
+      "settings": {
+        "color": "0x235D3A",
+        "radius": 0.7
+      }
+    },
+    "nu_e_bar": {
+      "name": "anti-neutrino",
+      "mass": 1.1e-06,
+      "charge": 0,
+      "type": "antimatter",
+      "settings": {
+        "color": "0x235D3A",
+        "radius": 0.7
+      }
+    },
+    "D": {
+      "name": "deuteron",
+      "mass": 1875.61,
+      "charge": 1,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 1.0
+      }
+    },
+    "p-": {
+      "name": "anti-proton",
+      "mass": 931.5,
+      "charge": -1,
+      "type": "antimatter",
+      "settings": {
+        "color": "0x1F8DD6",
+        "radius": 1.0
+      }
+    },
+    "p+": {
+      "name": "proton",
+      "mass": 931.5,
+      "charge": 1,
+      "type": "matter",
+      "settings": {
+        "color": "0x1F8DD6",
+        "radius": 1.0
+      }
+    },
+    "1H": {
+      "name": "hydrogen-1",
+      "mass": 931.5,
+      "charge": 1,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 1.0
+      }
+    },
+    "3He": {
+      "name": "helium-3",
+      "mass": 2794.5,
+      "charge": 2,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 2.0
+      }
+    },
+    "3H": {
+      "name": "hydrogen-3",
+      "mass": 2794.5,
+      "charge": 1,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 1.0
+      }
+    },
+    "4He": {
+      "name": "helium-4",
+      "mass": 3726.0,
+      "charge": 2,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 2.0
+      }
+    },
+    "5He": {
+      "name": "helium-5",
+      "mass": 4657.5,
+      "charge": 2,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 2.0
+      }
+    },
+    "6He": {
+      "name": "helium-6",
+      "mass": 5589.0,
+      "charge": 2,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 2.0
+      }
+    },
+    "6Li": {
+      "name": "lithium-6",
+      "mass": 5589.0,
+      "charge": 3,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 3.0
+      }
+    },
+    "7Be": {
+      "name": "beryllium-7",
+      "mass": 6520.5,
+      "charge": 4,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 4.0
+      }
+    },
+    "7Li": {
+      "name": "lithium-7",
+      "mass": 6520.5,
+      "charge": 3,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 3.0
+      }
+    },
+    "8B": {
+      "name": "boron-8",
+      "mass": 7452.0,
+      "charge": 5,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 5.0
+      }
+    },
+    "8Be": {
+      "name": "beryllium-8",
+      "mass": 7452.0,
+      "charge": 4,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 4.0
+      }
+    },
+    "8Li": {
+      "name": "lithium-8",
+      "mass": 7452.0,
+      "charge": 3,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 3.0
+      }
+    },
+    "8He": {
+      "name": "helium-8",
+      "mass": 7452.0,
+      "charge": 2,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 2.0
+      }
+    },
+    "8Li": {
+      "name": "lithium-8",
+      "mass": 7452.0,
+      "charge": 3,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 3.0
+      }
+    },
+    "9C": {
+      "name": "carbon-9",
+      "mass": 8383.5,
+      "charge": 6,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 6.0
+      }
+    },
+    "9B": {
+      "name": "boron-9",
+      "mass": 8383.5,
+      "charge": 5,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 5.0
+      }
+    },
+    "9Li": {
+      "name": "lithium-9",
+      "mass": 8383.5,
+      "charge": 3,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 3.0
+      }
+    },
+    "9Be": {
+      "name": "beryllium-9",
+      "mass": 8383.5,
+      "charge": 4,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 4.0
+      }
+    },
+    "10C": {
+      "name": "carbon-10",
+      "mass": 9315.0,
+      "charge": 6,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 6.0
+      }
+    },
+    "10B": {
+      "name": "boron-10",
+      "mass": 9315.0,
+      "charge": 5,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 5.0
+      }
+    },
+    "10Be": {
+      "name": "beryllium-10",
+      "mass": 9315.0,
+      "charge": 4,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 4.0
+      }
+    },
+    "11C": {
+      "name": "carbon-11",
+      "mass": 10246.5,
+      "charge": 6,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 6.0
+      }
+    },
+    "11B": {
+      "name": "boron-11",
+      "mass": 10246.5,
+      "charge": 5,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 5.0
+      }
+    },
+    "11Li": {
+      "name": "lithium-11",
+      "mass": 10246.5,
+      "charge": 3,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 3.0
+      }
+    },
+    "11Be": {
+      "name": "beryllium-11",
+      "mass": 10246.5,
+      "charge": 4,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 4.0
+      }
+    },
+    "12C": {
+      "name": "carbon-12",
+      "mass": 11178.0,
+      "charge": 6,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 6.0
+      }
+    },
+    "12N": {
+      "name": "nitrogen-12",
+      "mass": 11178.0,
+      "charge": 7,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 7.0
+      }
+    },
+    "12B": {
+      "name": "boron-12",
+      "mass": 11178.0,
+      "charge": 5,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 5.0
+      }
+    },
+    "12Be": {
+      "name": "beryllium-12",
+      "mass": 11178.0,
+      "charge": 4,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 4.0
+      }
+    },
+    "13N": {
+      "name": "nitrogen-13",
+      "mass": 12109.5,
+      "charge": 7,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 7.0
+      }
+    },
+    "13C": {
+      "name": "carbon-13",
+      "mass": 12109.5,
+      "charge": 6,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 6.0
+      }
+    },
+    "13O": {
+      "name": "oxygen-13",
+      "mass": 12109.5,
+      "charge": 8,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 8.0
+      }
+    },
+    "13B": {
+      "name": "boron-13",
+      "mass": 12109.5,
+      "charge": 5,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 5.0
+      }
+    },
+    "14O": {
+      "name": "oxygen-14",
+      "mass": 13041.0,
+      "charge": 8,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 8.0
+      }
+    },
+    "14N": {
+      "name": "nitrogen-14",
+      "mass": 13041.0,
+      "charge": 7,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 7.0
+      }
+    },
+    "14C": {
+      "name": "carbon-14",
+      "mass": 13041.0,
+      "charge": 6,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 6.0
+      }
+    },
+    "14Be": {
+      "name": "beryllium-14",
+      "mass": 13041.0,
+      "charge": 4,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 4.0
+      }
+    },
+    "14B": {
+      "name": "boron-14",
+      "mass": 13041.0,
+      "charge": 5,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 5.0
+      }
+    },
+    "15O": {
+      "name": "oxygen-15",
+      "mass": 13972.5,
+      "charge": 8,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 8.0
+      }
+    },
+    "15N": {
+      "name": "nitrogen-15",
+      "mass": 13972.5,
+      "charge": 7,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 7.0
+      }
+    },
+    "15C": {
+      "name": "carbon-15",
+      "mass": 13972.5,
+      "charge": 6,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 6.0
+      }
+    },
+    "15B": {
+      "name": "boron-15",
+      "mass": 13972.5,
+      "charge": 5,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 5.0
+      }
+    },
+    "16O": {
+      "name": "oxygen-16",
+      "mass": 14904.0,
+      "charge": 8,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 8.0
+      }
+    },
+    "16N": {
+      "name": "nitrogen-16",
+      "mass": 14904.0,
+      "charge": 7,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 7.0
+      }
+    },
+    "16C": {
+      "name": "carbon-16",
+      "mass": 14904.0,
+      "charge": 6,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 6.0
+      }
+    },
+    "17F": {
+      "name": "fluorine-17",
+      "mass": 15835.5,
+      "charge": 9,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 9.0
+      }
+    },
+    "17O": {
+      "name": "oxygen-17",
+      "mass": 15835.5,
+      "charge": 8,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 8.0
+      }
+    },
+    "17Ne": {
+      "name": "neon-17",
+      "mass": 15835.5,
+      "charge": 10,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 10.0
+      }
+    },
+    "17B": {
+      "name": "boron-17",
+      "mass": 15835.5,
+      "charge": 5,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 5.0
+      }
+    },
+    "17C": {
+      "name": "carbon-17",
+      "mass": 15835.5,
+      "charge": 6,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 6.0
+      }
+    },
+    "17N": {
+      "name": "nitrogen-17",
+      "mass": 15835.5,
+      "charge": 7,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 7.0
+      }
+    },
+    "18F": {
+      "name": "fluorine-18",
+      "mass": 16767.0,
+      "charge": 9,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 9.0
+      }
+    },
+    "18O": {
+      "name": "oxygen-18",
+      "mass": 16767.0,
+      "charge": 8,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 8.0
+      }
+    },
+    "18Ne": {
+      "name": "neon-18",
+      "mass": 16767.0,
+      "charge": 10,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 10.0
+      }
+    },
+    "18C": {
+      "name": "carbon-18",
+      "mass": 16767.0,
+      "charge": 6,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 6.0
+      }
+    },
+    "18N": {
+      "name": "nitrogen-18",
+      "mass": 16767.0,
+      "charge": 7,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 7.0
+      }
+    },
+    "19Ne": {
+      "name": "neon-19",
+      "mass": 17698.5,
+      "charge": 10,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 10.0
+      }
+    },
+    "19F": {
+      "name": "fluorine-19",
+      "mass": 17698.5,
+      "charge": 9,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 9.0
+      }
+    },
+    "19B": {
+      "name": "boron-19",
+      "mass": 17698.5,
+      "charge": 5,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 5.0
+      }
+    },
+    "19C": {
+      "name": "carbon-19",
+      "mass": 17698.5,
+      "charge": 6,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 6.0
+      }
+    },
+    "19N": {
+      "name": "nitrogen-19",
+      "mass": 17698.5,
+      "charge": 7,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 7.0
+      }
+    },
+    "19O": {
+      "name": "oxygen-19",
+      "mass": 17698.5,
+      "charge": 8,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 8.0
+      }
+    },
+    "20Ne": {
+      "name": "neon-20",
+      "mass": 18630.0,
+      "charge": 10,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 10.0
+      }
+    },
+    "20Mg": {
+      "name": "magnesium-20",
+      "mass": 18630.0,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "20Na": {
+      "name": "sodium-20",
+      "mass": 18630.0,
+      "charge": 11,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 11.0
+      }
+    },
+    "20C": {
+      "name": "carbon-20",
+      "mass": 18630.0,
+      "charge": 6,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 6.0
+      }
+    },
+    "20N": {
+      "name": "nitrogen-20",
+      "mass": 18630.0,
+      "charge": 7,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 7.0
+      }
+    },
+    "20O": {
+      "name": "oxygen-20",
+      "mass": 18630.0,
+      "charge": 8,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 8.0
+      }
+    },
+    "20F": {
+      "name": "fluorine-20",
+      "mass": 18630.0,
+      "charge": 9,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 9.0
+      }
+    },
+    "21Mg": {
+      "name": "magnesium-21",
+      "mass": 19561.5,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "21Na": {
+      "name": "sodium-21",
+      "mass": 19561.5,
+      "charge": 11,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 11.0
+      }
+    },
+    "21Ne": {
+      "name": "neon-21",
+      "mass": 19561.5,
+      "charge": 10,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 10.0
+      }
+    },
+    "21N": {
+      "name": "nitrogen-21",
+      "mass": 19561.5,
+      "charge": 7,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 7.0
+      }
+    },
+    "21O": {
+      "name": "oxygen-21",
+      "mass": 19561.5,
+      "charge": 8,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 8.0
+      }
+    },
+    "21F": {
+      "name": "fluorine-21",
+      "mass": 19561.5,
+      "charge": 9,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 9.0
+      }
+    },
+    "22Al": {
+      "name": "aluminum-22",
+      "mass": 20493.0,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "22Mg": {
+      "name": "magnesium-22",
+      "mass": 20493.0,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "22Na": {
+      "name": "sodium-22",
+      "mass": 20493.0,
+      "charge": 11,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 11.0
+      }
+    },
+    "22Ne": {
+      "name": "neon-22",
+      "mass": 20493.0,
+      "charge": 10,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 10.0
+      }
+    },
+    "22Si": {
+      "name": "silicon-22",
+      "mass": 20493.0,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "22C": {
+      "name": "carbon-22",
+      "mass": 20493.0,
+      "charge": 6,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 6.0
+      }
+    },
+    "22N": {
+      "name": "nitrogen-22",
+      "mass": 20493.0,
+      "charge": 7,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 7.0
+      }
+    },
+    "22O": {
+      "name": "oxygen-22",
+      "mass": 20493.0,
+      "charge": 8,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 8.0
+      }
+    },
+    "22F": {
+      "name": "fluorine-22",
+      "mass": 20493.0,
+      "charge": 9,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 9.0
+      }
+    },
+    "23Al": {
+      "name": "aluminum-23",
+      "mass": 21424.5,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "23Mg": {
+      "name": "magnesium-23",
+      "mass": 21424.5,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "23Na": {
+      "name": "sodium-23",
+      "mass": 21424.5,
+      "charge": 11,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 11.0
+      }
+    },
+    "23Si": {
+      "name": "silicon-23",
+      "mass": 21424.5,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "23N": {
+      "name": "nitrogen-23",
+      "mass": 21424.5,
+      "charge": 7,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 7.0
+      }
+    },
+    "23O": {
+      "name": "oxygen-23",
+      "mass": 21424.5,
+      "charge": 8,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 8.0
+      }
+    },
+    "23F": {
+      "name": "fluorine-23",
+      "mass": 21424.5,
+      "charge": 9,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 9.0
+      }
+    },
+    "23Ne": {
+      "name": "neon-23",
+      "mass": 21424.5,
+      "charge": 10,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 10.0
+      }
+    },
+    "24Mg": {
+      "name": "magnesium-24",
+      "mass": 22356.0,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "24Al": {
+      "name": "aluminum-24",
+      "mass": 22356.0,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "24Si": {
+      "name": "silicon-24",
+      "mass": 22356.0,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "24O": {
+      "name": "oxygen-24",
+      "mass": 22356.0,
+      "charge": 8,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 8.0
+      }
+    },
+    "24F": {
+      "name": "fluorine-24",
+      "mass": 22356.0,
+      "charge": 9,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 9.0
+      }
+    },
+    "24Ne": {
+      "name": "neon-24",
+      "mass": 22356.0,
+      "charge": 10,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 10.0
+      }
+    },
+    "24Na": {
+      "name": "sodium-24",
+      "mass": 22356.0,
+      "charge": 11,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 11.0
+      }
+    },
+    "25Al": {
+      "name": "aluminum-25",
+      "mass": 23287.5,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "25Mg": {
+      "name": "magnesium-25",
+      "mass": 23287.5,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "25Si": {
+      "name": "silicon-25",
+      "mass": 23287.5,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "25F": {
+      "name": "fluorine-25",
+      "mass": 23287.5,
+      "charge": 9,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 9.0
+      }
+    },
+    "25Ne": {
+      "name": "neon-25",
+      "mass": 23287.5,
+      "charge": 10,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 10.0
+      }
+    },
+    "25Na": {
+      "name": "sodium-25",
+      "mass": 23287.5,
+      "charge": 11,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 11.0
+      }
+    },
+    "26Al": {
+      "name": "aluminum-26",
+      "mass": 24219.0,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "26Mg": {
+      "name": "magnesium-26",
+      "mass": 24219.0,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "26P": {
+      "name": "phosphorus-26",
+      "mass": 24219.0,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "26Si": {
+      "name": "silicon-26",
+      "mass": 24219.0,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "26F": {
+      "name": "fluorine-26",
+      "mass": 24219.0,
+      "charge": 9,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 9.0
+      }
+    },
+    "26Ne": {
+      "name": "neon-26",
+      "mass": 24219.0,
+      "charge": 10,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 10.0
+      }
+    },
+    "26Na": {
+      "name": "sodium-26",
+      "mass": 24219.0,
+      "charge": 11,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 11.0
+      }
+    },
+    "27P": {
+      "name": "phosphorus-27",
+      "mass": 25150.5,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "27Si": {
+      "name": "silicon-27",
+      "mass": 25150.5,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "27S": {
+      "name": "sulfur-27",
+      "mass": 25150.5,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "27Al": {
+      "name": "aluminum-27",
+      "mass": 25150.5,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "27F": {
+      "name": "fluorine-27",
+      "mass": 25150.5,
+      "charge": 9,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 9.0
+      }
+    },
+    "27Ne": {
+      "name": "neon-27",
+      "mass": 25150.5,
+      "charge": 10,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 10.0
+      }
+    },
+    "27Na": {
+      "name": "sodium-27",
+      "mass": 25150.5,
+      "charge": 11,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 11.0
+      }
+    },
+    "27Mg": {
+      "name": "magnesium-27",
+      "mass": 25150.5,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "28Si": {
+      "name": "silicon-28",
+      "mass": 26082.0,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "28P": {
+      "name": "phosphorus-28",
+      "mass": 26082.0,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "28S": {
+      "name": "sulfur-28",
+      "mass": 26082.0,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "28Ne": {
+      "name": "neon-28",
+      "mass": 26082.0,
+      "charge": 10,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 10.0
+      }
+    },
+    "28Na": {
+      "name": "sodium-28",
+      "mass": 26082.0,
+      "charge": 11,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 11.0
+      }
+    },
+    "28Mg": {
+      "name": "magnesium-28",
+      "mass": 26082.0,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "28Al": {
+      "name": "aluminum-28",
+      "mass": 26082.0,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "29P": {
+      "name": "phosphorus-29",
+      "mass": 27013.5,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "29Si": {
+      "name": "silicon-29",
+      "mass": 27013.5,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "29S": {
+      "name": "sulfur-29",
+      "mass": 27013.5,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "29F": {
+      "name": "fluorine-29",
+      "mass": 27013.5,
+      "charge": 9,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 9.0
+      }
+    },
+    "29Ne": {
+      "name": "neon-29",
+      "mass": 27013.5,
+      "charge": 10,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 10.0
+      }
+    },
+    "29Na": {
+      "name": "sodium-29",
+      "mass": 27013.5,
+      "charge": 11,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 11.0
+      }
+    },
+    "29Mg": {
+      "name": "magnesium-29",
+      "mass": 27013.5,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "29Al": {
+      "name": "aluminum-29",
+      "mass": 27013.5,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "30P": {
+      "name": "phosphorus-30",
+      "mass": 27945.0,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "30Si": {
+      "name": "silicon-30",
+      "mass": 27945.0,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "30S": {
+      "name": "sulfur-30",
+      "mass": 27945.0,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "30Ne": {
+      "name": "neon-30",
+      "mass": 27945.0,
+      "charge": 10,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 10.0
+      }
+    },
+    "30Na": {
+      "name": "sodium-30",
+      "mass": 27945.0,
+      "charge": 11,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 11.0
+      }
+    },
+    "30Mg": {
+      "name": "magnesium-30",
+      "mass": 27945.0,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "30Al": {
+      "name": "aluminum-30",
+      "mass": 27945.0,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "31Ar": {
+      "name": "argon-31",
+      "mass": 28876.5,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "31Cl": {
+      "name": "chlorine-31",
+      "mass": 28876.5,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "31S": {
+      "name": "sulfur-31",
+      "mass": 28876.5,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "31P": {
+      "name": "phosphorus-31",
+      "mass": 28876.5,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "31F": {
+      "name": "fluorine-31",
+      "mass": 28876.5,
+      "charge": 9,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 9.0
+      }
+    },
+    "31Ne": {
+      "name": "neon-31",
+      "mass": 28876.5,
+      "charge": 10,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 10.0
+      }
+    },
+    "31Na": {
+      "name": "sodium-31",
+      "mass": 28876.5,
+      "charge": 11,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 11.0
+      }
+    },
+    "31Mg": {
+      "name": "magnesium-31",
+      "mass": 28876.5,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "31Al": {
+      "name": "aluminum-31",
+      "mass": 28876.5,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "31Si": {
+      "name": "silicon-31",
+      "mass": 28876.5,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "32S": {
+      "name": "sulfur-32",
+      "mass": 29808.0,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "32Ar": {
+      "name": "argon-32",
+      "mass": 29808.0,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "32Cl": {
+      "name": "chlorine-32",
+      "mass": 29808.0,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "32Ne": {
+      "name": "neon-32",
+      "mass": 29808.0,
+      "charge": 10,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 10.0
+      }
+    },
+    "32Na": {
+      "name": "sodium-32",
+      "mass": 29808.0,
+      "charge": 11,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 11.0
+      }
+    },
+    "32Mg": {
+      "name": "magnesium-32",
+      "mass": 29808.0,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "32Al": {
+      "name": "aluminum-32",
+      "mass": 29808.0,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "32Si": {
+      "name": "silicon-32",
+      "mass": 29808.0,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "32P": {
+      "name": "phosphorus-32",
+      "mass": 29808.0,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "33Ar": {
+      "name": "argon-33",
+      "mass": 30739.5,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "33Cl": {
+      "name": "chlorine-33",
+      "mass": 30739.5,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "33S": {
+      "name": "sulfur-33",
+      "mass": 30739.5,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "33Na": {
+      "name": "sodium-33",
+      "mass": 30739.5,
+      "charge": 11,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 11.0
+      }
+    },
+    "33Mg": {
+      "name": "magnesium-33",
+      "mass": 30739.5,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "33Al": {
+      "name": "aluminum-33",
+      "mass": 30739.5,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "33Si": {
+      "name": "silicon-33",
+      "mass": 30739.5,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "33P": {
+      "name": "phosphorus-33",
+      "mass": 30739.5,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "34Ar": {
+      "name": "argon-34",
+      "mass": 31671.0,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "34Cl": {
+      "name": "chlorine-34",
+      "mass": 31671.0,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "34S": {
+      "name": "sulfur-34",
+      "mass": 31671.0,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "34Ne": {
+      "name": "neon-34",
+      "mass": 31671.0,
+      "charge": 10,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 10.0
+      }
+    },
+    "34Na": {
+      "name": "sodium-34",
+      "mass": 31671.0,
+      "charge": 11,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 11.0
+      }
+    },
+    "34Mg": {
+      "name": "magnesium-34",
+      "mass": 31671.0,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "34Al": {
+      "name": "aluminum-34",
+      "mass": 31671.0,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "34Si": {
+      "name": "silicon-34",
+      "mass": 31671.0,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "34P": {
+      "name": "phosphorus-34",
+      "mass": 31671.0,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "35Ar": {
+      "name": "argon-35",
+      "mass": 32602.5,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "35Cl": {
+      "name": "chlorine-35",
+      "mass": 32602.5,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "35Ca": {
+      "name": "calcium-35",
+      "mass": 32602.5,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "35K": {
+      "name": "potassium-35",
+      "mass": 32602.5,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "35Na": {
+      "name": "sodium-35",
+      "mass": 32602.5,
+      "charge": 11,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 11.0
+      }
+    },
+    "35Mg": {
+      "name": "magnesium-35",
+      "mass": 32602.5,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "35Al": {
+      "name": "aluminum-35",
+      "mass": 32602.5,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "35Si": {
+      "name": "silicon-35",
+      "mass": 32602.5,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "35P": {
+      "name": "phosphorus-35",
+      "mass": 32602.5,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "35S": {
+      "name": "sulfur-35",
+      "mass": 32602.5,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "36Ar": {
+      "name": "argon-36",
+      "mass": 33534.0,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "36Ca": {
+      "name": "calcium-36",
+      "mass": 33534.0,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "36K": {
+      "name": "potassium-36",
+      "mass": 33534.0,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "36Mg": {
+      "name": "magnesium-36",
+      "mass": 33534.0,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "36Al": {
+      "name": "aluminum-36",
+      "mass": 33534.0,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "36Si": {
+      "name": "silicon-36",
+      "mass": 33534.0,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "36P": {
+      "name": "phosphorus-36",
+      "mass": 33534.0,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "36S": {
+      "name": "sulfur-36",
+      "mass": 33534.0,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "36Cl": {
+      "name": "chlorine-36",
+      "mass": 33534.0,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "37Ar": {
+      "name": "argon-37",
+      "mass": 34465.5,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "37Cl": {
+      "name": "chlorine-37",
+      "mass": 34465.5,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "37Ca": {
+      "name": "calcium-37",
+      "mass": 34465.5,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "37K": {
+      "name": "potassium-37",
+      "mass": 34465.5,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "37Na": {
+      "name": "sodium-37",
+      "mass": 34465.5,
+      "charge": 11,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 11.0
+      }
+    },
+    "37Mg": {
+      "name": "magnesium-37",
+      "mass": 34465.5,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "37Al": {
+      "name": "aluminum-37",
+      "mass": 34465.5,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "37Si": {
+      "name": "silicon-37",
+      "mass": 34465.5,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "37P": {
+      "name": "phosphorus-37",
+      "mass": 34465.5,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "37S": {
+      "name": "sulfur-37",
+      "mass": 34465.5,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "38Ca": {
+      "name": "calcium-38",
+      "mass": 35397.0,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "38K": {
+      "name": "potassium-38",
+      "mass": 35397.0,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "38Ar": {
+      "name": "argon-38",
+      "mass": 35397.0,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "38Mg": {
+      "name": "magnesium-38",
+      "mass": 35397.0,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "38Al": {
+      "name": "aluminum-38",
+      "mass": 35397.0,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "38Si": {
+      "name": "silicon-38",
+      "mass": 35397.0,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "38P": {
+      "name": "phosphorus-38",
+      "mass": 35397.0,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "38S": {
+      "name": "sulfur-38",
+      "mass": 35397.0,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "38Cl": {
+      "name": "chlorine-38",
+      "mass": 35397.0,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "39Ca": {
+      "name": "calcium-39",
+      "mass": 36328.5,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "39K": {
+      "name": "potassium-39",
+      "mass": 36328.5,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "39Ti": {
+      "name": "titanium-39",
+      "mass": 36328.5,
+      "charge": 22,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 22.0
+      }
+    },
+    "39Sc": {
+      "name": "scandium-39",
+      "mass": 36328.5,
+      "charge": 21,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 21.0
+      }
+    },
+    "39Al": {
+      "name": "aluminum-39",
+      "mass": 36328.5,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "39Si": {
+      "name": "silicon-39",
+      "mass": 36328.5,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "39P": {
+      "name": "phosphorus-39",
+      "mass": 36328.5,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "39S": {
+      "name": "sulfur-39",
+      "mass": 36328.5,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "39Cl": {
+      "name": "chlorine-39",
+      "mass": 36328.5,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "39Ar": {
+      "name": "argon-39",
+      "mass": 36328.5,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "40Ca": {
+      "name": "calcium-40",
+      "mass": 37260.0,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "40Sc": {
+      "name": "scandium-40",
+      "mass": 37260.0,
+      "charge": 21,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 21.0
+      }
+    },
+    "40Mg": {
+      "name": "magnesium-40",
+      "mass": 37260.0,
+      "charge": 12,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 12.0
+      }
+    },
+    "40Al": {
+      "name": "aluminum-40",
+      "mass": 37260.0,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "40Si": {
+      "name": "silicon-40",
+      "mass": 37260.0,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "40P": {
+      "name": "phosphorus-40",
+      "mass": 37260.0,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "40S": {
+      "name": "sulfur-40",
+      "mass": 37260.0,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "40Cl": {
+      "name": "chlorine-40",
+      "mass": 37260.0,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "40Ar": {
+      "name": "argon-40",
+      "mass": 37260.0,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "40K": {
+      "name": "potassium-40",
+      "mass": 37260.0,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "41Ca": {
+      "name": "calcium-41",
+      "mass": 38191.5,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "41K": {
+      "name": "potassium-41",
+      "mass": 38191.5,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "41Sc": {
+      "name": "scandium-41",
+      "mass": 38191.5,
+      "charge": 21,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 21.0
+      }
+    },
+    "41Ti": {
+      "name": "titanium-41",
+      "mass": 38191.5,
+      "charge": 22,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 22.0
+      }
+    },
+    "41Al": {
+      "name": "aluminum-41",
+      "mass": 38191.5,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "41Si": {
+      "name": "silicon-41",
+      "mass": 38191.5,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "41P": {
+      "name": "phosphorus-41",
+      "mass": 38191.5,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "41S": {
+      "name": "sulfur-41",
+      "mass": 38191.5,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "41Cl": {
+      "name": "chlorine-41",
+      "mass": 38191.5,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "41Ar": {
+      "name": "argon-41",
+      "mass": 38191.5,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "42Cr": {
+      "name": "chromium-42",
+      "mass": 39123.0,
+      "charge": 24,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 24.0
+      }
+    },
+    "42V": {
+      "name": "vanadium-42",
+      "mass": 39123.0,
+      "charge": 23,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 23.0
+      }
+    },
+    "42Sc": {
+      "name": "scandium-42",
+      "mass": 39123.0,
+      "charge": 21,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 21.0
+      }
+    },
+    "42Ca": {
+      "name": "calcium-42",
+      "mass": 39123.0,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "42Ti": {
+      "name": "titanium-42",
+      "mass": 39123.0,
+      "charge": 22,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 22.0
+      }
+    },
+    "42Al": {
+      "name": "aluminum-42",
+      "mass": 39123.0,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "42Si": {
+      "name": "silicon-42",
+      "mass": 39123.0,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "42P": {
+      "name": "phosphorus-42",
+      "mass": 39123.0,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "42S": {
+      "name": "sulfur-42",
+      "mass": 39123.0,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "42Cl": {
+      "name": "chlorine-42",
+      "mass": 39123.0,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "42Ar": {
+      "name": "argon-42",
+      "mass": 39123.0,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "42K": {
+      "name": "potassium-42",
+      "mass": 39123.0,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "43Cr": {
+      "name": "chromium-43",
+      "mass": 40054.5,
+      "charge": 24,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 24.0
+      }
+    },
+    "43V": {
+      "name": "vanadium-43",
+      "mass": 40054.5,
+      "charge": 23,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 23.0
+      }
+    },
+    "43Sc": {
+      "name": "scandium-43",
+      "mass": 40054.5,
+      "charge": 21,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 21.0
+      }
+    },
+    "43Ca": {
+      "name": "calcium-43",
+      "mass": 40054.5,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "43Ti": {
+      "name": "titanium-43",
+      "mass": 40054.5,
+      "charge": 22,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 22.0
+      }
+    },
+    "43Al": {
+      "name": "aluminum-43",
+      "mass": 40054.5,
+      "charge": 13,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 13.0
+      }
+    },
+    "43Si": {
+      "name": "silicon-43",
+      "mass": 40054.5,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "43P": {
+      "name": "phosphorus-43",
+      "mass": 40054.5,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "43S": {
+      "name": "sulfur-43",
+      "mass": 40054.5,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "43Cl": {
+      "name": "chlorine-43",
+      "mass": 40054.5,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "43Ar": {
+      "name": "argon-43",
+      "mass": 40054.5,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "43K": {
+      "name": "potassium-43",
+      "mass": 40054.5,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "44Ti": {
+      "name": "titanium-44",
+      "mass": 40986.0,
+      "charge": 22,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 22.0
+      }
+    },
+    "44Cr": {
+      "name": "chromium-44",
+      "mass": 40986.0,
+      "charge": 24,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 24.0
+      }
+    },
+    "44V": {
+      "name": "vanadium-44",
+      "mass": 40986.0,
+      "charge": 23,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 23.0
+      }
+    },
+    "44Mn": {
+      "name": "manganese-44",
+      "mass": 40986.0,
+      "charge": 25,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 25.0
+      }
+    },
+    "44Sc": {
+      "name": "scandium-44",
+      "mass": 40986.0,
+      "charge": 21,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 21.0
+      }
+    },
+    "44Ca": {
+      "name": "calcium-44",
+      "mass": 40986.0,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "44Si": {
+      "name": "silicon-44",
+      "mass": 40986.0,
+      "charge": 14,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 14.0
+      }
+    },
+    "44P": {
+      "name": "phosphorus-44",
+      "mass": 40986.0,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "44S": {
+      "name": "sulfur-44",
+      "mass": 40986.0,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "44Cl": {
+      "name": "chlorine-44",
+      "mass": 40986.0,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "44Ar": {
+      "name": "argon-44",
+      "mass": 40986.0,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "44K": {
+      "name": "potassium-44",
+      "mass": 40986.0,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "45Cr": {
+      "name": "chromium-45",
+      "mass": 41917.5,
+      "charge": 24,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 24.0
+      }
+    },
+    "45V": {
+      "name": "vanadium-45",
+      "mass": 41917.5,
+      "charge": 23,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 23.0
+      }
+    },
+    "45Ti": {
+      "name": "titanium-45",
+      "mass": 41917.5,
+      "charge": 22,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 22.0
+      }
+    },
+    "45Sc": {
+      "name": "scandium-45",
+      "mass": 41917.5,
+      "charge": 21,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 21.0
+      }
+    },
+    "45P": {
+      "name": "phosphorus-45",
+      "mass": 41917.5,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "45S": {
+      "name": "sulfur-45",
+      "mass": 41917.5,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "45Cl": {
+      "name": "chlorine-45",
+      "mass": 41917.5,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "45Ar": {
+      "name": "argon-45",
+      "mass": 41917.5,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "45K": {
+      "name": "potassium-45",
+      "mass": 41917.5,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "45Ca": {
+      "name": "calcium-45",
+      "mass": 41917.5,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "46Cr": {
+      "name": "chromium-46",
+      "mass": 42849.0,
+      "charge": 24,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 24.0
+      }
+    },
+    "46V": {
+      "name": "vanadium-46",
+      "mass": 42849.0,
+      "charge": 23,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 23.0
+      }
+    },
+    "46Fe": {
+      "name": "iron-46",
+      "mass": 42849.0,
+      "charge": 26,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 26.0
+      }
+    },
+    "46Mn": {
+      "name": "manganese-46",
+      "mass": 42849.0,
+      "charge": 25,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 25.0
+      }
+    },
+    "46Ti": {
+      "name": "titanium-46",
+      "mass": 42849.0,
+      "charge": 22,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 22.0
+      }
+    },
+    "46P": {
+      "name": "phosphorus-46",
+      "mass": 42849.0,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "46S": {
+      "name": "sulfur-46",
+      "mass": 42849.0,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "46Cl": {
+      "name": "chlorine-46",
+      "mass": 42849.0,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "46Ar": {
+      "name": "argon-46",
+      "mass": 42849.0,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "46K": {
+      "name": "potassium-46",
+      "mass": 42849.0,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "46Ca": {
+      "name": "calcium-46",
+      "mass": 42849.0,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "46Sc": {
+      "name": "scandium-46",
+      "mass": 42849.0,
+      "charge": 21,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 21.0
+      }
+    },
+    "47Cr": {
+      "name": "chromium-47",
+      "mass": 43780.5,
+      "charge": 24,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 24.0
+      }
+    },
+    "47V": {
+      "name": "vanadium-47",
+      "mass": 43780.5,
+      "charge": 23,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 23.0
+      }
+    },
+    "47Fe": {
+      "name": "iron-47",
+      "mass": 43780.5,
+      "charge": 26,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 26.0
+      }
+    },
+    "47Mn": {
+      "name": "manganese-47",
+      "mass": 43780.5,
+      "charge": 25,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 25.0
+      }
+    },
+    "47Ti": {
+      "name": "titanium-47",
+      "mass": 43780.5,
+      "charge": 22,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 22.0
+      }
+    },
+    "47S": {
+      "name": "sulfur-47",
+      "mass": 43780.5,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "47Cl": {
+      "name": "chlorine-47",
+      "mass": 43780.5,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "47P": {
+      "name": "phosphorus-47",
+      "mass": 43780.5,
+      "charge": 15,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 15.0
+      }
+    },
+    "47Ar": {
+      "name": "argon-47",
+      "mass": 43780.5,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "47K": {
+      "name": "potassium-47",
+      "mass": 43780.5,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "47Ca": {
+      "name": "calcium-47",
+      "mass": 43780.5,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "47Sc": {
+      "name": "scandium-47",
+      "mass": 43780.5,
+      "charge": 21,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 21.0
+      }
+    },
+    "48Cr": {
+      "name": "chromium-48",
+      "mass": 44712.0,
+      "charge": 24,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 24.0
+      }
+    },
+    "48V": {
+      "name": "vanadium-48",
+      "mass": 44712.0,
+      "charge": 23,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 23.0
+      }
+    },
+    "48Fe": {
+      "name": "iron-48",
+      "mass": 44712.0,
+      "charge": 26,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 26.0
+      }
+    },
+    "48Mn": {
+      "name": "manganese-48",
+      "mass": 44712.0,
+      "charge": 25,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 25.0
+      }
+    },
+    "48Ti": {
+      "name": "titanium-48",
+      "mass": 44712.0,
+      "charge": 22,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 22.0
+      }
+    },
+    "48Cl": {
+      "name": "chlorine-48",
+      "mass": 44712.0,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "48Ar": {
+      "name": "argon-48",
+      "mass": 44712.0,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "48S": {
+      "name": "sulfur-48",
+      "mass": 44712.0,
+      "charge": 16,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 16.0
+      }
+    },
+    "48K": {
+      "name": "potassium-48",
+      "mass": 44712.0,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "48Ca": {
+      "name": "calcium-48",
+      "mass": 44712.0,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "48Sc": {
+      "name": "scandium-48",
+      "mass": 44712.0,
+      "charge": 21,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 21.0
+      }
+    },
+    "49Cr": {
+      "name": "chromium-49",
+      "mass": 45643.5,
+      "charge": 24,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 24.0
+      }
+    },
+    "49V": {
+      "name": "vanadium-49",
+      "mass": 45643.5,
+      "charge": 23,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 23.0
+      }
+    },
+    "49Fe": {
+      "name": "iron-49",
+      "mass": 45643.5,
+      "charge": 26,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 26.0
+      }
+    },
+    "49Mn": {
+      "name": "manganese-49",
+      "mass": 45643.5,
+      "charge": 25,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 25.0
+      }
+    },
+    "49Ni": {
+      "name": "nickel-49",
+      "mass": 45643.5,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "49Co": {
+      "name": "cobalt-49",
+      "mass": 45643.5,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "49Ti": {
+      "name": "titanium-49",
+      "mass": 45643.5,
+      "charge": 22,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 22.0
+      }
+    },
+    "49Cl": {
+      "name": "chlorine-49",
+      "mass": 45643.5,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "49Ar": {
+      "name": "argon-49",
+      "mass": 45643.5,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "49K": {
+      "name": "potassium-49",
+      "mass": 45643.5,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "49Ca": {
+      "name": "calcium-49",
+      "mass": 45643.5,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "49Sc": {
+      "name": "scandium-49",
+      "mass": 45643.5,
+      "charge": 21,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 21.0
+      }
+    },
+    "50Co": {
+      "name": "cobalt-50",
+      "mass": 46575.0,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "50Fe": {
+      "name": "iron-50",
+      "mass": 46575.0,
+      "charge": 26,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 26.0
+      }
+    },
+    "50Mn": {
+      "name": "manganese-50",
+      "mass": 46575.0,
+      "charge": 25,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 25.0
+      }
+    },
+    "50Cr": {
+      "name": "chromium-50",
+      "mass": 46575.0,
+      "charge": 24,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 24.0
+      }
+    },
+    "50Ni": {
+      "name": "nickel-50",
+      "mass": 46575.0,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "50Cl": {
+      "name": "chlorine-50",
+      "mass": 46575.0,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "50Ar": {
+      "name": "argon-50",
+      "mass": 46575.0,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "50K": {
+      "name": "potassium-50",
+      "mass": 46575.0,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "50Ca": {
+      "name": "calcium-50",
+      "mass": 46575.0,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "50Sc": {
+      "name": "scandium-50",
+      "mass": 46575.0,
+      "charge": 21,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 21.0
+      }
+    },
+    "50Ti": {
+      "name": "titanium-50",
+      "mass": 46575.0,
+      "charge": 22,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 22.0
+      }
+    },
+    "51Co": {
+      "name": "cobalt-51",
+      "mass": 47506.5,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "51Fe": {
+      "name": "iron-51",
+      "mass": 47506.5,
+      "charge": 26,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 26.0
+      }
+    },
+    "51Cr": {
+      "name": "chromium-51",
+      "mass": 47506.5,
+      "charge": 24,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 24.0
+      }
+    },
+    "51V": {
+      "name": "vanadium-51",
+      "mass": 47506.5,
+      "charge": 23,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 23.0
+      }
+    },
+    "51Mn": {
+      "name": "manganese-51",
+      "mass": 47506.5,
+      "charge": 25,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 25.0
+      }
+    },
+    "51Ar": {
+      "name": "argon-51",
+      "mass": 47506.5,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "51K": {
+      "name": "potassium-51",
+      "mass": 47506.5,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "51Cl": {
+      "name": "chlorine-51",
+      "mass": 47506.5,
+      "charge": 17,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 17.0
+      }
+    },
+    "51Ca": {
+      "name": "calcium-51",
+      "mass": 47506.5,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "51Sc": {
+      "name": "scandium-51",
+      "mass": 47506.5,
+      "charge": 21,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 21.0
+      }
+    },
+    "51Ti": {
+      "name": "titanium-51",
+      "mass": 47506.5,
+      "charge": 22,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 22.0
+      }
+    },
+    "52Fe": {
+      "name": "iron-52",
+      "mass": 48438.0,
+      "charge": 26,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 26.0
+      }
+    },
+    "52Co": {
+      "name": "cobalt-52",
+      "mass": 48438.0,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "52Mn": {
+      "name": "manganese-52",
+      "mass": 48438.0,
+      "charge": 25,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 25.0
+      }
+    },
+    "52Cr": {
+      "name": "chromium-52",
+      "mass": 48438.0,
+      "charge": 24,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 24.0
+      }
+    },
+    "52Ni": {
+      "name": "nickel-52",
+      "mass": 48438.0,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "52Ar": {
+      "name": "argon-52",
+      "mass": 48438.0,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "52K": {
+      "name": "potassium-52",
+      "mass": 48438.0,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "52Sc": {
+      "name": "scandium-52",
+      "mass": 48438.0,
+      "charge": 21,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 21.0
+      }
+    },
+    "52Ti": {
+      "name": "titanium-52",
+      "mass": 48438.0,
+      "charge": 22,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 22.0
+      }
+    },
+    "52Ca": {
+      "name": "calcium-52",
+      "mass": 48438.0,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "52V": {
+      "name": "vanadium-52",
+      "mass": 48438.0,
+      "charge": 23,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 23.0
+      }
+    },
+    "53Co": {
+      "name": "cobalt-53",
+      "mass": 49369.5,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "53Fe": {
+      "name": "iron-53",
+      "mass": 49369.5,
+      "charge": 26,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 26.0
+      }
+    },
+    "53Mn": {
+      "name": "manganese-53",
+      "mass": 49369.5,
+      "charge": 25,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 25.0
+      }
+    },
+    "53Cr": {
+      "name": "chromium-53",
+      "mass": 49369.5,
+      "charge": 24,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 24.0
+      }
+    },
+    "53Ni": {
+      "name": "nickel-53",
+      "mass": 49369.5,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "53Ar": {
+      "name": "argon-53",
+      "mass": 49369.5,
+      "charge": 18,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 18.0
+      }
+    },
+    "53K": {
+      "name": "potassium-53",
+      "mass": 49369.5,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "53Ca": {
+      "name": "calcium-53",
+      "mass": 49369.5,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "53Sc": {
+      "name": "scandium-53",
+      "mass": 49369.5,
+      "charge": 21,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 21.0
+      }
+    },
+    "53Ti": {
+      "name": "titanium-53",
+      "mass": 49369.5,
+      "charge": 22,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 22.0
+      }
+    },
+    "53V": {
+      "name": "vanadium-53",
+      "mass": 49369.5,
+      "charge": 23,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 23.0
+      }
+    },
+    "54Co": {
+      "name": "cobalt-54",
+      "mass": 50301.0,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "54Fe": {
+      "name": "iron-54",
+      "mass": 50301.0,
+      "charge": 26,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 26.0
+      }
+    },
+    "54Mn": {
+      "name": "manganese-54",
+      "mass": 50301.0,
+      "charge": 25,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 25.0
+      }
+    },
+    "54Cr": {
+      "name": "chromium-54",
+      "mass": 50301.0,
+      "charge": 24,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 24.0
+      }
+    },
+    "54Ni": {
+      "name": "nickel-54",
+      "mass": 50301.0,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "54K": {
+      "name": "potassium-54",
+      "mass": 50301.0,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "54Ca": {
+      "name": "calcium-54",
+      "mass": 50301.0,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "54Sc": {
+      "name": "scandium-54",
+      "mass": 50301.0,
+      "charge": 21,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 21.0
+      }
+    },
+    "54Ti": {
+      "name": "titanium-54",
+      "mass": 50301.0,
+      "charge": 22,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 22.0
+      }
+    },
+    "54V": {
+      "name": "vanadium-54",
+      "mass": 50301.0,
+      "charge": 23,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 23.0
+      }
+    },
+    "55Co": {
+      "name": "cobalt-55",
+      "mass": 51232.5,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "55Fe": {
+      "name": "iron-55",
+      "mass": 51232.5,
+      "charge": 26,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 26.0
+      }
+    },
+    "55Mn": {
+      "name": "manganese-55",
+      "mass": 51232.5,
+      "charge": 25,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 25.0
+      }
+    },
+    "55Ni": {
+      "name": "nickel-55",
+      "mass": 51232.5,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "55K": {
+      "name": "potassium-55",
+      "mass": 51232.5,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "55Ca": {
+      "name": "calcium-55",
+      "mass": 51232.5,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "55Sc": {
+      "name": "scandium-55",
+      "mass": 51232.5,
+      "charge": 21,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 21.0
+      }
+    },
+    "55Ti": {
+      "name": "titanium-55",
+      "mass": 51232.5,
+      "charge": 22,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 22.0
+      }
+    },
+    "55V": {
+      "name": "vanadium-55",
+      "mass": 51232.5,
+      "charge": 23,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 23.0
+      }
+    },
+    "55Cr": {
+      "name": "chromium-55",
+      "mass": 51232.5,
+      "charge": 24,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 24.0
+      }
+    },
+    "56Ni": {
+      "name": "nickel-56",
+      "mass": 52164.0,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "56Co": {
+      "name": "cobalt-56",
+      "mass": 52164.0,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "56Fe": {
+      "name": "iron-56",
+      "mass": 52164.0,
+      "charge": 26,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 26.0
+      }
+    },
+    "56K": {
+      "name": "potassium-56",
+      "mass": 52164.0,
+      "charge": 19,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 19.0
+      }
+    },
+    "56Ca": {
+      "name": "calcium-56",
+      "mass": 52164.0,
+      "charge": 20,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 20.0
+      }
+    },
+    "56Sc": {
+      "name": "scandium-56",
+      "mass": 52164.0,
+      "charge": 21,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 21.0
+      }
+    },
+    "56Ti": {
+      "name": "titanium-56",
+      "mass": 52164.0,
+      "charge": 22,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 22.0
+      }
+    },
+    "56V": {
+      "name": "vanadium-56",
+      "mass": 52164.0,
+      "charge": 23,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 23.0
+      }
+    },
+    "56Cr": {
+      "name": "chromium-56",
+      "mass": 52164.0,
+      "charge": 24,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 24.0
+      }
+    },
+    "56Mn": {
+      "name": "manganese-56",
+      "mass": 52164.0,
+      "charge": 25,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 25.0
+      }
+    },
+    "57Co": {
+      "name": "cobalt-57",
+      "mass": 53095.5,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "57Fe": {
+      "name": "iron-57",
+      "mass": 53095.5,
+      "charge": 26,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 26.0
+      }
+    },
+    "57Ni": {
+      "name": "nickel-57",
+      "mass": 53095.5,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "58Co": {
+      "name": "cobalt-58",
+      "mass": 54027.0,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "58Fe": {
+      "name": "iron-58",
+      "mass": 54027.0,
+      "charge": 26,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 26.0
+      }
+    },
+    "59Ni": {
+      "name": "nickel-59",
+      "mass": 54958.5,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "59Co": {
+      "name": "cobalt-59",
+      "mass": 54958.5,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "60Co": {
+      "name": "cobalt-60",
+      "mass": 55890.0,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "60Ni": {
+      "name": "nickel-60",
+      "mass": 55890.0,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "61Co": {
+      "name": "cobalt-61",
+      "mass": 56821.5,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "61Ni": {
+      "name": "nickel-61",
+      "mass": 56821.5,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "62Co": {
+      "name": "cobalt-62",
+      "mass": 57753.0,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "62Ni": {
+      "name": "nickel-62",
+      "mass": 57753.0,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "63Co": {
+      "name": "cobalt-63",
+      "mass": 58684.5,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "63Ni": {
+      "name": "nickel-63",
+      "mass": 58684.5,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "63Cu": {
+      "name": "copper-63",
+      "mass": 58684.5,
+      "charge": 29,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 29.0
+      }
+    },
+    "64Co": {
+      "name": "cobalt-64",
+      "mass": 59616.0,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "64Ni": {
+      "name": "nickel-64",
+      "mass": 59616.0,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "65Co": {
+      "name": "cobalt-65",
+      "mass": 60547.5,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "65Ni": {
+      "name": "nickel-65",
+      "mass": 60547.5,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "65Cu": {
+      "name": "copper-65",
+      "mass": 60547.5,
+      "charge": 29,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 29.0
+      }
+    },
+    "66Co": {
+      "name": "cobalt-66",
+      "mass": 61479.0,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "66Ni": {
+      "name": "nickel-66",
+      "mass": 61479.0,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "66Cu": {
+      "name": "copper-66",
+      "mass": 61479.0,
+      "charge": 29,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 29.0
+      }
+    },
+    "67Co": {
+      "name": "cobalt-67",
+      "mass": 62410.5,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "67Ni": {
+      "name": "nickel-67",
+      "mass": 62410.5,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "67Cu": {
+      "name": "copper-67",
+      "mass": 62410.5,
+      "charge": 29,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 29.0
+      }
+    },
+    "68Co": {
+      "name": "cobalt-68",
+      "mass": 63342.0,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "68Ni": {
+      "name": "nickel-68",
+      "mass": 63342.0,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "68Cu": {
+      "name": "copper-68",
+      "mass": 63342.0,
+      "charge": 29,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 29.0
+      }
+    },
+    "69Co": {
+      "name": "cobalt-69",
+      "mass": 64273.5,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "69Ni": {
+      "name": "nickel-69",
+      "mass": 64273.5,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "69Cu": {
+      "name": "copper-69",
+      "mass": 64273.5,
+      "charge": 29,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 29.0
+      }
+    },
+    "70Co": {
+      "name": "cobalt-70",
+      "mass": 65205.0,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "70Ni": {
+      "name": "nickel-70",
+      "mass": 65205.0,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "70Cu": {
+      "name": "copper-70",
+      "mass": 65205.0,
+      "charge": 29,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 29.0
+      }
+    },
+    "71Co": {
+      "name": "cobalt-71",
+      "mass": 66136.5,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "71Ni": {
+      "name": "nickel-71",
+      "mass": 66136.5,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "71Cu": {
+      "name": "copper-71",
+      "mass": 66136.5,
+      "charge": 29,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 29.0
+      }
+    },
+    "72Co": {
+      "name": "cobalt-72",
+      "mass": 67068.0,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "72Ni": {
+      "name": "nickel-72",
+      "mass": 67068.0,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "72Cu": {
+      "name": "copper-72",
+      "mass": 67068.0,
+      "charge": 29,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 29.0
+      }
+    },
+    "73Co": {
+      "name": "cobalt-73",
+      "mass": 67999.5,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "73Ni": {
+      "name": "nickel-73",
+      "mass": 67999.5,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "73Cu": {
+      "name": "copper-73",
+      "mass": 67999.5,
+      "charge": 29,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 29.0
+      }
+    },
+    "74Co": {
+      "name": "cobalt-74",
+      "mass": 68931.0,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "74Ni": {
+      "name": "nickel-74",
+      "mass": 68931.0,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "74Cu": {
+      "name": "copper-74",
+      "mass": 68931.0,
+      "charge": 29,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 29.0
+      }
+    },
+    "75Co": {
+      "name": "cobalt-75",
+      "mass": 69862.5,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "75Ni": {
+      "name": "nickel-75",
+      "mass": 69862.5,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "75Cu": {
+      "name": "copper-75",
+      "mass": 69862.5,
+      "charge": 29,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 29.0
+      }
+    },
+    "76Co": {
+      "name": "cobalt-76",
+      "mass": 70794.0,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "76Ni": {
+      "name": "nickel-76",
+      "mass": 70794.0,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "76Cu": {
+      "name": "copper-76",
+      "mass": 70794.0,
+      "charge": 29,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 29.0
+      }
+    },
+    "77Co": {
+      "name": "cobalt-77",
+      "mass": 71725.5,
+      "charge": 27,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 27.0
+      }
+    },
+    "77Ni": {
+      "name": "nickel-77",
+      "mass": 71725.5,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "77Cu": {
+      "name": "copper-77",
+      "mass": 71725.5,
+      "charge": 29,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 29.0
+      }
+    },
+    "78Ni": {
+      "name": "nickel-78",
+      "mass": 72657.0,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "78Cu": {
+      "name": "copper-78",
+      "mass": 72657.0,
+      "charge": 29,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 29.0
+      }
+    },
+    "79Ni": {
+      "name": "nickel-79",
+      "mass": 73588.5,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "79Cu": {
+      "name": "copper-79",
+      "mass": 73588.5,
+      "charge": 29,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 29.0
+      }
+    },
+    "80Ni": {
+      "name": "nickel-80",
+      "mass": 74520.0,
+      "charge": 28,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 28.0
+      }
+    },
+    "80Cu": {
+      "name": "copper-80",
+      "mass": 74520.0,
+      "charge": 29,
+      "type": "matter",
+      "settings": {
+        "color": "0xDD514C",
+        "radius": 29.0
+      }
+    }
+  }
+}

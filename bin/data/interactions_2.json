@@ -1,0 +1,5338 @@
+[
+  {
+    "id": 1,
+    "name": "Alpha ladder",
+    "initial": [
+      "52Fe",
+      "4He"
+    ],
+    "final": [
+      "56Ni",
+      "gamma"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Alpha ladder",
+    "initial": [
+      "48Cr",
+      "4He"
+    ],
+    "final": [
+      "52Fe",
+      "gamma"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Alpha ladder",
+    "initial": [
+      "44Ti",
+      "4He"
+    ],
+    "final": [
+      "48Cr",
+      "gamma"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Alpha ladder",
+    "initial": [
+      "40Ca",
+      "4He"
+    ],
+    "final": [
+      "44Ti",
+      "gamma"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Alpha ladder",
+    "initial": [
+      "36Ar",
+      "4He"
+    ],
+    "final": [
+      "40Ca",
+      "gamma"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Alpha ladder",
+    "initial": [
+      "32S",
+      "4He"
+    ],
+    "final": [
+      "36Ar",
+      "gamma"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Alpha ladder",
+    "initial": [
+      "28Si",
+      "4He"
+    ],
+    "final": [
+      "32S",
+      "gamma"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Alpha ladder",
+    "initial": [
+      "24Mg",
+      "4He"
+    ],
+    "final": [
+      "28Si",
+      "gamma"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Alpha ladder",
+    "initial": [
+      "20Ne",
+      "4He"
+    ],
+    "final": [
+      "24Mg",
+      "gamma"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Alpha ladder",
+    "initial": [
+      "16O",
+      "4He"
+    ],
+    "final": [
+      "20Ne",
+      "gamma"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Alpha ladder",
+    "initial": [
+      "12C",
+      "4He"
+    ],
+    "final": [
+      "16O",
+      "gamma"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Anihilation",
+    "initial": [
+      "e-",
+      "e+"
+    ],
+    "final": [
+      "gamma",
+      "gamma"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Anihilation",
+    "initial": [
+      "p-",
+      "p+"
+    ],
+    "final": [
+      "gamma",
+      "gamma"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Anihilation",
+    "initial": [
+      "nu_e",
+      "nu_e_bar"
+    ],
+    "final": [
+      "gamma",
+      "gamma"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Beta +",
+    "initial": [
+      "10C",
+      "e-"
+    ],
+    "final": [
+      "10B",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Beta +",
+    "initial": [
+      "11C",
+      "e-"
+    ],
+    "final": [
+      "11B",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Beta +",
+    "initial": [
+      "12N",
+      "e-"
+    ],
+    "final": [
+      "12C",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "CNO",
+    "initial": [
+      "13N",
+      "e-"
+    ],
+    "final": [
+      "13C",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Beta +",
+    "initial": [
+      "13O",
+      "e-"
+    ],
+    "final": [
+      "13N",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Beta +",
+    "initial": [
+      "14O",
+      "e-"
+    ],
+    "final": [
+      "14N",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Beta +",
+    "initial": [
+      "15O",
+      "e-"
+    ],
+    "final": [
+      "15N",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Beta +",
+    "initial": [
+      "17F",
+      "e-"
+    ],
+    "final": [
+      "17O",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Beta +",
+    "initial": [
+      "17Ne",
+      "e-"
+    ],
+    "final": [
+      "17F",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Beta +",
+    "initial": [
+      "18F",
+      "e-"
+    ],
+    "final": [
+      "18O",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Beta +",
+    "initial": [
+      "18Ne",
+      "e-"
+    ],
+    "final": [
+      "18F",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Beta +",
+    "initial": [
+      "19Ne",
+      "e-"
+    ],
+    "final": [
+      "19F",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Beta +",
+    "initial": [
+      "20Mg",
+      "e-"
+    ],
+    "final": [
+      "20Na",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Beta +",
+    "initial": [
+      "20Na",
+      "e-"
+    ],
+    "final": [
+      "20Ne",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Beta +",
+    "initial": [
+      "21Mg",
+      "e-"
+    ],
+    "final": [
+      "21Na",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Beta +",
+    "initial": [
+      "21Na",
+      "e-"
+    ],
+    "final": [
+      "21Ne",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Beta +",
+    "initial": [
+      "22Al",
+      "e-"
+    ],
+    "final": [
+      "22Mg",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Beta +",
+    "initial": [
+      "22Mg",
+      "e-"
+    ],
+    "final": [
+      "22Na",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Beta +",
+    "initial": [
+      "22Na",
+      "e-"
+    ],
+    "final": [
+      "22Ne",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Beta +",
+    "initial": [
+      "22Si",
+      "e-"
+    ],
+    "final": [
+      "22Al",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Beta +",
+    "initial": [
+      "23Al",
+      "e-"
+    ],
+    "final": [
+      "23Mg",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Beta +",
+    "initial": [
+      "23Mg",
+      "e-"
+    ],
+    "final": [
+      "23Na",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Beta +",
+    "initial": [
+      "23Si",
+      "e-"
+    ],
+    "final": [
+      "23Al",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Beta +",
+    "initial": [
+      "24Al",
+      "e-"
+    ],
+    "final": [
+      "24Mg",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Beta +",
+    "initial": [
+      "24Si",
+      "e-"
+    ],
+    "final": [
+      "24Al",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Beta +",
+    "initial": [
+      "25Al",
+      "e-"
+    ],
+    "final": [
+      "25Mg",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Beta +",
+    "initial": [
+      "25Si",
+      "e-"
+    ],
+    "final": [
+      "25Al",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Beta +",
+    "initial": [
+      "26Al",
+      "e-"
+    ],
+    "final": [
+      "26Mg",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Beta +",
+    "initial": [
+      "26P",
+      "e-"
+    ],
+    "final": [
+      "26Si",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Beta +",
+    "initial": [
+      "26Si",
+      "e-"
+    ],
+    "final": [
+      "26Al",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Beta +",
+    "initial": [
+      "27P",
+      "e-"
+    ],
+    "final": [
+      "27Si",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Beta +",
+    "initial": [
+      "27S",
+      "e-"
+    ],
+    "final": [
+      "27P",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Beta +",
+    "initial": [
+      "27Si",
+      "e-"
+    ],
+    "final": [
+      "27Al",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Beta +",
+    "initial": [
+      "28P",
+      "e-"
+    ],
+    "final": [
+      "28Si",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Beta +",
+    "initial": [
+      "28S",
+      "e-"
+    ],
+    "final": [
+      "28P",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Beta +",
+    "initial": [
+      "29P",
+      "e-"
+    ],
+    "final": [
+      "29Si",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Beta +",
+    "initial": [
+      "29S",
+      "e-"
+    ],
+    "final": [
+      "29P",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Beta +",
+    "initial": [
+      "30P",
+      "e-"
+    ],
+    "final": [
+      "30Si",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Beta +",
+    "initial": [
+      "30S",
+      "e-"
+    ],
+    "final": [
+      "30P",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Beta +",
+    "initial": [
+      "31Ar",
+      "e-"
+    ],
+    "final": [
+      "31Cl",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Beta +",
+    "initial": [
+      "31Cl",
+      "e-"
+    ],
+    "final": [
+      "31S",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Beta +",
+    "initial": [
+      "31S",
+      "e-"
+    ],
+    "final": [
+      "31P",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Beta +",
+    "initial": [
+      "32Ar",
+      "e-"
+    ],
+    "final": [
+      "32Cl",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Beta +",
+    "initial": [
+      "32Cl",
+      "e-"
+    ],
+    "final": [
+      "32S",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Beta +",
+    "initial": [
+      "33Ar",
+      "e-"
+    ],
+    "final": [
+      "33Cl",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Beta +",
+    "initial": [
+      "33Cl",
+      "e-"
+    ],
+    "final": [
+      "33S",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Beta +",
+    "initial": [
+      "34Ar",
+      "e-"
+    ],
+    "final": [
+      "34Cl",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Beta +",
+    "initial": [
+      "34Cl",
+      "e-"
+    ],
+    "final": [
+      "34S",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Beta +",
+    "initial": [
+      "35Ar",
+      "e-"
+    ],
+    "final": [
+      "35Cl",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Beta +",
+    "initial": [
+      "35Ca",
+      "e-"
+    ],
+    "final": [
+      "35K",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Beta +",
+    "initial": [
+      "35K",
+      "e-"
+    ],
+    "final": [
+      "35Ar",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Beta +",
+    "initial": [
+      "36Ca",
+      "e-"
+    ],
+    "final": [
+      "36K",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Beta +",
+    "initial": [
+      "36K",
+      "e-"
+    ],
+    "final": [
+      "36Ar",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Beta +",
+    "initial": [
+      "37Ar",
+      "e-"
+    ],
+    "final": [
+      "37Cl",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Beta +",
+    "initial": [
+      "37Ca",
+      "e-"
+    ],
+    "final": [
+      "37K",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Beta +",
+    "initial": [
+      "37K",
+      "e-"
+    ],
+    "final": [
+      "37Ar",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Beta +",
+    "initial": [
+      "38Ca",
+      "e-"
+    ],
+    "final": [
+      "38K",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Beta +",
+    "initial": [
+      "38K",
+      "e-"
+    ],
+    "final": [
+      "38Ar",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Beta +",
+    "initial": [
+      "39Ca",
+      "e-"
+    ],
+    "final": [
+      "39K",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Beta +",
+    "initial": [
+      "39Ti",
+      "e-"
+    ],
+    "final": [
+      "39Sc",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Beta +",
+    "initial": [
+      "40Sc",
+      "e-"
+    ],
+    "final": [
+      "40Ca",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Beta +",
+    "initial": [
+      "41Ca",
+      "e-"
+    ],
+    "final": [
+      "41K",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Beta +",
+    "initial": [
+      "41Sc",
+      "e-"
+    ],
+    "final": [
+      "41Ca",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Beta +",
+    "initial": [
+      "41Ti",
+      "e-"
+    ],
+    "final": [
+      "41Sc",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Beta +",
+    "initial": [
+      "42Cr",
+      "e-"
+    ],
+    "final": [
+      "42V",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Beta +",
+    "initial": [
+      "42Sc",
+      "e-"
+    ],
+    "final": [
+      "42Ca",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Beta +",
+    "initial": [
+      "42Ti",
+      "e-"
+    ],
+    "final": [
+      "42Sc",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Beta +",
+    "initial": [
+      "43Cr",
+      "e-"
+    ],
+    "final": [
+      "43V",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Beta +",
+    "initial": [
+      "43Sc",
+      "e-"
+    ],
+    "final": [
+      "43Ca",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Beta +",
+    "initial": [
+      "43Ti",
+      "e-"
+    ],
+    "final": [
+      "43Sc",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Beta +",
+    "initial": [
+      "43V",
+      "e-"
+    ],
+    "final": [
+      "43Ti",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Beta +",
+    "initial": [
+      "44Cr",
+      "e-"
+    ],
+    "final": [
+      "44V",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Beta +",
+    "initial": [
+      "44Mn",
+      "e-"
+    ],
+    "final": [
+      "44Cr",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Beta +",
+    "initial": [
+      "44Sc",
+      "e-"
+    ],
+    "final": [
+      "44Ca",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Beta +",
+    "initial": [
+      "44Ti",
+      "e-"
+    ],
+    "final": [
+      "44Sc",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Beta +",
+    "initial": [
+      "44V",
+      "e-"
+    ],
+    "final": [
+      "44Ti",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Beta +",
+    "initial": [
+      "45Cr",
+      "e-"
+    ],
+    "final": [
+      "45V",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Beta +",
+    "initial": [
+      "45Ti",
+      "e-"
+    ],
+    "final": [
+      "45Sc",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Beta +",
+    "initial": [
+      "45V",
+      "e-"
+    ],
+    "final": [
+      "45Ti",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Beta +",
+    "initial": [
+      "46Cr",
+      "e-"
+    ],
+    "final": [
+      "46V",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Beta +",
+    "initial": [
+      "46Fe",
+      "e-"
+    ],
+    "final": [
+      "46Mn",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Beta +",
+    "initial": [
+      "46Mn",
+      "e-"
+    ],
+    "final": [
+      "46Cr",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Beta +",
+    "initial": [
+      "46V",
+      "e-"
+    ],
+    "final": [
+      "46Ti",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Beta +",
+    "initial": [
+      "47Cr",
+      "e-"
+    ],
+    "final": [
+      "47V",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Beta +",
+    "initial": [
+      "47Fe",
+      "e-"
+    ],
+    "final": [
+      "47Mn",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Beta +",
+    "initial": [
+      "47Mn",
+      "e-"
+    ],
+    "final": [
+      "47Cr",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Beta +",
+    "initial": [
+      "47V",
+      "e-"
+    ],
+    "final": [
+      "47Ti",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Beta +",
+    "initial": [
+      "48Cr",
+      "e-"
+    ],
+    "final": [
+      "48V",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Beta +",
+    "initial": [
+      "48Fe",
+      "e-"
+    ],
+    "final": [
+      "48Mn",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Beta +",
+    "initial": [
+      "48Mn",
+      "e-"
+    ],
+    "final": [
+      "48Cr",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Beta +",
+    "initial": [
+      "48V",
+      "e-"
+    ],
+    "final": [
+      "48Ti",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Beta +",
+    "initial": [
+      "49Cr",
+      "e-"
+    ],
+    "final": [
+      "49V",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Beta +",
+    "initial": [
+      "49Fe",
+      "e-"
+    ],
+    "final": [
+      "49Mn",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Beta +",
+    "initial": [
+      "49Mn",
+      "e-"
+    ],
+    "final": [
+      "49Cr",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Beta +",
+    "initial": [
+      "49Ni",
+      "e-"
+    ],
+    "final": [
+      "49Co",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Beta +",
+    "initial": [
+      "49V",
+      "e-"
+    ],
+    "final": [
+      "49Ti",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Beta +",
+    "initial": [
+      "50Co",
+      "e-"
+    ],
+    "final": [
+      "50Fe",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Beta +",
+    "initial": [
+      "50Fe",
+      "e-"
+    ],
+    "final": [
+      "50Mn",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Beta +",
+    "initial": [
+      "50Mn",
+      "e-"
+    ],
+    "final": [
+      "50Cr",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Beta +",
+    "initial": [
+      "50Ni",
+      "e-"
+    ],
+    "final": [
+      "50Co",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Beta +",
+    "initial": [
+      "51Co",
+      "e-"
+    ],
+    "final": [
+      "51Fe",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Beta +",
+    "initial": [
+      "51Cr",
+      "e-"
+    ],
+    "final": [
+      "51V",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Beta +",
+    "initial": [
+      "51Fe",
+      "e-"
+    ],
+    "final": [
+      "51Mn",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Beta +",
+    "initial": [
+      "51Mn",
+      "e-"
+    ],
+    "final": [
+      "51Cr",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Beta +",
+    "initial": [
+      "52Co",
+      "e-"
+    ],
+    "final": [
+      "52Fe",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Beta +",
+    "initial": [
+      "52Fe",
+      "e-"
+    ],
+    "final": [
+      "52Mn",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Beta +",
+    "initial": [
+      "52Mn",
+      "e-"
+    ],
+    "final": [
+      "52Cr",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Beta +",
+    "initial": [
+      "52Ni",
+      "e-"
+    ],
+    "final": [
+      "52Co",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Beta +",
+    "initial": [
+      "53Co",
+      "e-"
+    ],
+    "final": [
+      "53Fe",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Beta +",
+    "initial": [
+      "53Fe",
+      "e-"
+    ],
+    "final": [
+      "53Mn",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Beta +",
+    "initial": [
+      "53Mn",
+      "e-"
+    ],
+    "final": [
+      "53Cr",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Beta +",
+    "initial": [
+      "53Ni",
+      "e-"
+    ],
+    "final": [
+      "53Co",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Beta +",
+    "initial": [
+      "54Co",
+      "e-"
+    ],
+    "final": [
+      "54Fe",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Beta +",
+    "initial": [
+      "54Mn",
+      "e-"
+    ],
+    "final": [
+      "54Cr",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Beta +",
+    "initial": [
+      "54Ni",
+      "e-"
+    ],
+    "final": [
+      "54Co",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Beta +",
+    "initial": [
+      "55Co",
+      "e-"
+    ],
+    "final": [
+      "55Fe",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Beta +",
+    "initial": [
+      "55Fe",
+      "e-"
+    ],
+    "final": [
+      "55Mn",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Beta +",
+    "initial": [
+      "55Ni",
+      "e-"
+    ],
+    "final": [
+      "55Co",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Beta +",
+    "initial": [
+      "56Co",
+      "e-"
+    ],
+    "final": [
+      "56Fe",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Beta +",
+    "initial": [
+      "56Ni",
+      "e-"
+    ],
+    "final": [
+      "56Co",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Beta +",
+    "initial": [
+      "57Co",
+      "e-"
+    ],
+    "final": [
+      "57Fe",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Beta +",
+    "initial": [
+      "57Ni",
+      "e-"
+    ],
+    "final": [
+      "57Co",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Beta +",
+    "initial": [
+      "58Co",
+      "e-"
+    ],
+    "final": [
+      "58Fe",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Beta +",
+    "initial": [
+      "59Ni",
+      "e-"
+    ],
+    "final": [
+      "59Co",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Beta +",
+    "initial": [
+      "7Be",
+      "e-"
+    ],
+    "final": [
+      "7Li",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Beta +",
+    "initial": [
+      "7Be",
+      "e-"
+    ],
+    "final": [
+      "7Li",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Beta +",
+    "initial": [
+      "8B",
+      "e-"
+    ],
+    "final": [
+      "8Be",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Beta +",
+    "initial": [
+      "9C",
+      "e-"
+    ],
+    "final": [
+      "9B",
+      "nu_e"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "CNO",
+    "initial": [
+      "15N",
+      "p+"
+    ],
+    "final": [
+      "12C",
+      "4He"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "CNO",
+    "initial": [
+      "14N",
+      "p+"
+    ],
+    "final": [
+      "15O",
+      "gamma"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "CNO",
+    "initial": [
+      "13C",
+      "p+"
+    ],
+    "final": [
+      "14N",
+      "gamma"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "CNO",
+    "initial": [
+      "12C",
+      "p+"
+    ],
+    "final": [
+      "13N",
+      "gamma"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Neutron capture",
+    "initial": [
+      "8Li",
+      "n"
+    ],
+    "final": [
+      "9Li"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Neutron capture",
+    "initial": [
+      "8Be",
+      "n"
+    ],
+    "final": [
+      "9Be"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Neutron capture",
+    "initial": [
+      "7Li",
+      "n"
+    ],
+    "final": [
+      "8Li"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Neutron capture",
+    "initial": [
+      "7Be",
+      "n"
+    ],
+    "final": [
+      "8Be"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Neutron capture",
+    "initial": [
+      "52Fe",
+      "n"
+    ],
+    "final": [
+      "53Fe"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Neutron capture",
+    "initial": [
+      "4He",
+      "n"
+    ],
+    "final": [
+      "5He"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Neutron capture",
+    "initial": [
+      "48Cr",
+      "n"
+    ],
+    "final": [
+      "49Cr"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Neutron capture",
+    "initial": [
+      "45Ti",
+      "n"
+    ],
+    "final": [
+      "46Ti"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Neutron capture",
+    "initial": [
+      "44Ti",
+      "n"
+    ],
+    "final": [
+      "45Ti"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Neutron capture",
+    "initial": [
+      "3He",
+      "n"
+    ],
+    "final": [
+      "4He"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Neutron capture",
+    "initial": [
+      "36Ar",
+      "n"
+    ],
+    "final": [
+      "37Ar"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Neutron capture",
+    "initial": [
+      "16O",
+      "n"
+    ],
+    "final": [
+      "17O"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Neutron capture",
+    "initial": [
+      "15O",
+      "n"
+    ],
+    "final": [
+      "16O"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Neutron capture",
+    "initial": [
+      "15N",
+      "n"
+    ],
+    "final": [
+      "16N"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Neutron capture",
+    "initial": [
+      "14N",
+      "n"
+    ],
+    "final": [
+      "15N"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Neutron capture",
+    "initial": [
+      "14C",
+      "n"
+    ],
+    "final": [
+      "15C"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Neutron capture",
+    "initial": [
+      "13N",
+      "n"
+    ],
+    "final": [
+      "14N"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Neutron capture",
+    "initial": [
+      "13C",
+      "n"
+    ],
+    "final": [
+      "14C"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Neutron capture",
+    "initial": [
+      "12C",
+      "n"
+    ],
+    "final": [
+      "13C"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "PP Chain",
+    "initial": [
+      "3He",
+      "4He"
+    ],
+    "final": [
+      "7Be",
+      "gamma"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "PP Chain",
+    "initial": [
+      "p+",
+      "p+"
+    ],
+    "final": [
+      "D",
+      "nu_e",
+      "e+"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "PP Chain",
+    "initial": [
+      "D",
+      "p+"
+    ],
+    "final": [
+      "3He",
+      "gamma"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "PP Chain",
+    "initial": [
+      "7Li",
+      "p+"
+    ],
+    "final": [
+      "4He",
+      "4He"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "PP Chain",
+    "initial": [
+      "7Be",
+      "p+"
+    ],
+    "final": [
+      "4He",
+      "4He"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "PP Chain",
+    "initial": [
+      "3He",
+      "3He"
+    ],
+    "final": [
+      "4He",
+      "p+",
+      "p+"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Triple alpha",
+    "initial": [
+      "8Be",
+      "4He"
+    ],
+    "final": [
+      "12C",
+      "gamma",
+      "gamma"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Triple alpha",
+    "initial": [
+      "4He",
+      "4He"
+    ],
+    "final": [
+      "8Be",
+      "gamma"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Beta -",
+    "initial": [
+      "56K",
+      "e+"
+    ],
+    "final": [
+      "56Ca",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Beta -",
+    "initial": [
+      "34Ne",
+      "e+"
+    ],
+    "final": [
+      "34Na",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Beta -",
+    "initial": [
+      "40Mg",
+      "e+"
+    ],
+    "final": [
+      "40Al",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Beta -",
+    "initial": [
+      "42Al",
+      "e+"
+    ],
+    "final": [
+      "42Si",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Beta -",
+    "initial": [
+      "43Al",
+      "e+"
+    ],
+    "final": [
+      "43Si",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Beta -",
+    "initial": [
+      "49Cl",
+      "e+"
+    ],
+    "final": [
+      "49Ar",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Beta -",
+    "initial": [
+      "45P",
+      "e+"
+    ],
+    "final": [
+      "45S",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Beta -",
+    "initial": [
+      "46P",
+      "e+"
+    ],
+    "final": [
+      "46S",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Beta -",
+    "initial": [
+      "47S",
+      "e+"
+    ],
+    "final": [
+      "47Cl",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Beta -",
+    "initial": [
+      "48Cl",
+      "e+"
+    ],
+    "final": [
+      "48Ar",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Beta -",
+    "initial": [
+      "48S",
+      "e+"
+    ],
+    "final": [
+      "48Cl",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Beta -",
+    "initial": [
+      "51Ar",
+      "e+"
+    ],
+    "final": [
+      "51K",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Beta -",
+    "initial": [
+      "51Cl",
+      "e+"
+    ],
+    "final": [
+      "51Ar",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Beta -",
+    "initial": [
+      "31F",
+      "e+"
+    ],
+    "final": [
+      "31Ne",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Beta -",
+    "initial": [
+      "44Si",
+      "e+"
+    ],
+    "final": [
+      "44P",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Beta -",
+    "initial": [
+      "55K",
+      "e+"
+    ],
+    "final": [
+      "55Ca",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Beta -",
+    "initial": [
+      "50Cl",
+      "e+"
+    ],
+    "final": [
+      "50Ar",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Beta -",
+    "initial": [
+      "52Ar",
+      "e+"
+    ],
+    "final": [
+      "52K",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Beta -",
+    "initial": [
+      "53Ar",
+      "e+"
+    ],
+    "final": [
+      "53K",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Beta -",
+    "initial": [
+      "37Na",
+      "e+"
+    ],
+    "final": [
+      "37Mg",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Beta -",
+    "initial": [
+      "35Na",
+      "e+"
+    ],
+    "final": [
+      "35Mg",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Beta -",
+    "initial": [
+      "47P",
+      "e+"
+    ],
+    "final": [
+      "47S",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Beta -",
+    "initial": [
+      "29F",
+      "e+"
+    ],
+    "final": [
+      "29Ne",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Beta -",
+    "initial": [
+      "19B",
+      "e+"
+    ],
+    "final": [
+      "19C",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Beta -",
+    "initial": [
+      "38Mg",
+      "e+"
+    ],
+    "final": [
+      "38Al",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Beta -",
+    "initial": [
+      "31Ne",
+      "e+"
+    ],
+    "final": [
+      "31Na",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Beta -",
+    "initial": [
+      "32Ne",
+      "e+"
+    ],
+    "final": [
+      "32Na",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Beta -",
+    "initial": [
+      "41Al",
+      "e+"
+    ],
+    "final": [
+      "41Si",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Beta -",
+    "initial": [
+      "14Be",
+      "e+"
+    ],
+    "final": [
+      "14B",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Beta -",
+    "initial": [
+      "27F",
+      "e+"
+    ],
+    "final": [
+      "27Ne",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Beta -",
+    "initial": [
+      "34Na",
+      "e+"
+    ],
+    "final": [
+      "34Mg",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Beta -",
+    "initial": [
+      "17B",
+      "e+"
+    ],
+    "final": [
+      "17C",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Beta -",
+    "initial": [
+      "40Al",
+      "e+"
+    ],
+    "final": [
+      "40Si",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Beta -",
+    "initial": [
+      "36Mg",
+      "e+"
+    ],
+    "final": [
+      "36Al",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Beta -",
+    "initial": [
+      "22C",
+      "e+"
+    ],
+    "final": [
+      "22N",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Beta -",
+    "initial": [
+      "30Ne",
+      "e+"
+    ],
+    "final": [
+      "30Na",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Beta -",
+    "initial": [
+      "38Al",
+      "e+"
+    ],
+    "final": [
+      "38Si",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Beta -",
+    "initial": [
+      "39Al",
+      "e+"
+    ],
+    "final": [
+      "39Si",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 212,
+    "name": "Beta -",
+    "initial": [
+      "37Mg",
+      "e+"
+    ],
+    "final": [
+      "37Al",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Beta -",
+    "initial": [
+      "33Na",
+      "e+"
+    ],
+    "final": [
+      "33Mg",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 214,
+    "name": "Beta -",
+    "initial": [
+      "26F",
+      "e+"
+    ],
+    "final": [
+      "26Ne",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Beta -",
+    "initial": [
+      "11Li",
+      "e+"
+    ],
+    "final": [
+      "11Be",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 216,
+    "name": "Beta -",
+    "initial": [
+      "54K",
+      "e+"
+    ],
+    "final": [
+      "54Ca",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 217,
+    "name": "Beta -",
+    "initial": [
+      "15B",
+      "e+"
+    ],
+    "final": [
+      "15C",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Beta -",
+    "initial": [
+      "37Al",
+      "e+"
+    ],
+    "final": [
+      "37Si",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 219,
+    "name": "Beta -",
+    "initial": [
+      "56Ca",
+      "e+"
+    ],
+    "final": [
+      "56Sc",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 220,
+    "name": "Beta -",
+    "initial": [
+      "35Mg",
+      "e+"
+    ],
+    "final": [
+      "35Al",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Beta -",
+    "initial": [
+      "14B",
+      "e+"
+    ],
+    "final": [
+      "14C",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Beta -",
+    "initial": [
+      "42Si",
+      "e+"
+    ],
+    "final": [
+      "42P",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Beta -",
+    "initial": [
+      "43Si",
+      "e+"
+    ],
+    "final": [
+      "43P",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 224,
+    "name": "Beta -",
+    "initial": [
+      "77Co",
+      "e+"
+    ],
+    "final": [
+      "77Ni",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Beta -",
+    "initial": [
+      "32Na",
+      "e+"
+    ],
+    "final": [
+      "32Mg",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 226,
+    "name": "Beta -",
+    "initial": [
+      "70Co",
+      "e+"
+    ],
+    "final": [
+      "70Ni",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Beta -",
+    "initial": [
+      "23N",
+      "e+"
+    ],
+    "final": [
+      "23O",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Beta -",
+    "initial": [
+      "29Ne",
+      "e+"
+    ],
+    "final": [
+      "29Na",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 229,
+    "name": "Beta -",
+    "initial": [
+      "20C",
+      "e+"
+    ],
+    "final": [
+      "20N",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Beta -",
+    "initial": [
+      "13B",
+      "e+"
+    ],
+    "final": [
+      "13C",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 231,
+    "name": "Beta -",
+    "initial": [
+      "31Na",
+      "e+"
+    ],
+    "final": [
+      "31Mg",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 232,
+    "name": "Beta -",
+    "initial": [
+      "44P",
+      "e+"
+    ],
+    "final": [
+      "44S",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Beta -",
+    "initial": [
+      "22N",
+      "e+"
+    ],
+    "final": [
+      "22O",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 234,
+    "name": "Beta -",
+    "initial": [
+      "28Ne",
+      "e+"
+    ],
+    "final": [
+      "28Na",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 235,
+    "name": "Beta -",
+    "initial": [
+      "34Mg",
+      "e+"
+    ],
+    "final": [
+      "34Al",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Beta -",
+    "initial": [
+      "41Si",
+      "e+"
+    ],
+    "final": [
+      "41P",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Beta -",
+    "initial": [
+      "12B",
+      "e+"
+    ],
+    "final": [
+      "12C",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Beta -",
+    "initial": [
+      "12Be",
+      "e+"
+    ],
+    "final": [
+      "12B",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 239,
+    "name": "Beta -",
+    "initial": [
+      "76Co",
+      "e+"
+    ],
+    "final": [
+      "76Ni",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Beta -",
+    "initial": [
+      "55Ca",
+      "e+"
+    ],
+    "final": [
+      "55Sc",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 241,
+    "name": "Beta -",
+    "initial": [
+      "80Ni",
+      "e+"
+    ],
+    "final": [
+      "80Cu",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 242,
+    "name": "Beta -",
+    "initial": [
+      "75Co",
+      "e+"
+    ],
+    "final": [
+      "75Ni",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 243,
+    "name": "Beta -",
+    "initial": [
+      "53K",
+      "e+"
+    ],
+    "final": [
+      "53Ca",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 244,
+    "name": "Beta -",
+    "initial": [
+      "28Na",
+      "e+"
+    ],
+    "final": [
+      "28Mg",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Beta -",
+    "initial": [
+      "56Sc",
+      "e+"
+    ],
+    "final": [
+      "56Ti",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "Beta -",
+    "initial": [
+      "74Co",
+      "e+"
+    ],
+    "final": [
+      "74Ni",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 247,
+    "name": "Beta -",
+    "initial": [
+      "27Ne",
+      "e+"
+    ],
+    "final": [
+      "27Na",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 248,
+    "name": "Beta -",
+    "initial": [
+      "32Al",
+      "e+"
+    ],
+    "final": [
+      "32Si",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 249,
+    "name": "Beta -",
+    "initial": [
+      "40Si",
+      "e+"
+    ],
+    "final": [
+      "40P",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 250,
+    "name": "Beta -",
+    "initial": [
+      "43P",
+      "e+"
+    ],
+    "final": [
+      "43S",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Beta -",
+    "initial": [
+      "35Al",
+      "e+"
+    ],
+    "final": [
+      "35Si",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 252,
+    "name": "Beta -",
+    "initial": [
+      "73Co",
+      "e+"
+    ],
+    "final": [
+      "73Ni",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Beta -",
+    "initial": [
+      "33Al",
+      "e+"
+    ],
+    "final": [
+      "33Si",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Beta -",
+    "initial": [
+      "79Ni",
+      "e+"
+    ],
+    "final": [
+      "79Cu",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 255,
+    "name": "Beta -",
+    "initial": [
+      "29Na",
+      "e+"
+    ],
+    "final": [
+      "29Mg",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 256,
+    "name": "Beta -",
+    "initial": [
+      "19C",
+      "e+"
+    ],
+    "final": [
+      "19N",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Beta -",
+    "initial": [
+      "39Si",
+      "e+"
+    ],
+    "final": [
+      "39P",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 258,
+    "name": "Beta -",
+    "initial": [
+      "30Na",
+      "e+"
+    ],
+    "final": [
+      "30Mg",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Beta -",
+    "initial": [
+      "42P",
+      "e+"
+    ],
+    "final": [
+      "42S",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 260,
+    "name": "Beta -",
+    "initial": [
+      "46S",
+      "e+"
+    ],
+    "final": [
+      "46Cl",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 261,
+    "name": "Beta -",
+    "initial": [
+      "34Al",
+      "e+"
+    ],
+    "final": [
+      "34Si",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 262,
+    "name": "Beta -",
+    "initial": [
+      "72Co",
+      "e+"
+    ],
+    "final": [
+      "72Ni",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 263,
+    "name": "Beta -",
+    "initial": [
+      "45S",
+      "e+"
+    ],
+    "final": [
+      "45Cl",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 264,
+    "name": "Beta -",
+    "initial": [
+      "24O",
+      "e+"
+    ],
+    "final": [
+      "24F",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Beta -",
+    "initial": [
+      "25F",
+      "e+"
+    ],
+    "final": [
+      "25Ne",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 266,
+    "name": "Beta -",
+    "initial": [
+      "71Co",
+      "e+"
+    ],
+    "final": [
+      "71Ni",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 267,
+    "name": "Beta -",
+    "initial": [
+      "21N",
+      "e+"
+    ],
+    "final": [
+      "21O",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Beta -",
+    "initial": [
+      "32Mg",
+      "e+"
+    ],
+    "final": [
+      "32Al",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 269,
+    "name": "Beta -",
+    "initial": [
+      "33Mg",
+      "e+"
+    ],
+    "final": [
+      "33Al",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Beta -",
+    "initial": [
+      "37Si",
+      "e+"
+    ],
+    "final": [
+      "37P",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 271,
+    "name": "Beta -",
+    "initial": [
+      "18C",
+      "e+"
+    ],
+    "final": [
+      "18N",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Beta -",
+    "initial": [
+      "36Al",
+      "e+"
+    ],
+    "final": [
+      "36Si",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 273,
+    "name": "Beta -",
+    "initial": [
+      "38Si",
+      "e+"
+    ],
+    "final": [
+      "38P",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 274,
+    "name": "Beta -",
+    "initial": [
+      "55Sc",
+      "e+"
+    ],
+    "final": [
+      "55Ti",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Beta -",
+    "initial": [
+      "23O",
+      "e+"
+    ],
+    "final": [
+      "23F",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 276,
+    "name": "Beta -",
+    "initial": [
+      "68Co",
+      "e+"
+    ],
+    "final": [
+      "68Ni",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 277,
+    "name": "Beta -",
+    "initial": [
+      "44S",
+      "e+"
+    ],
+    "final": [
+      "44Cl",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 278,
+    "name": "Beta -",
+    "initial": [
+      "41P",
+      "e+"
+    ],
+    "final": [
+      "41S",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 279,
+    "name": "Beta -",
+    "initial": [
+      "47Cl",
+      "e+"
+    ],
+    "final": [
+      "47Ar",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 280,
+    "name": "Beta -",
+    "initial": [
+      "50Ar",
+      "e+"
+    ],
+    "final": [
+      "50K",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 281,
+    "name": "Beta -",
+    "initial": [
+      "54Ca",
+      "e+"
+    ],
+    "final": [
+      "54Sc",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 282,
+    "name": "Beta -",
+    "initial": [
+      "8He",
+      "e+"
+    ],
+    "final": [
+      "8Li",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 283,
+    "name": "Beta -",
+    "initial": [
+      "78Ni",
+      "e+"
+    ],
+    "final": [
+      "78Cu",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 284,
+    "name": "Beta -",
+    "initial": [
+      "20N",
+      "e+"
+    ],
+    "final": [
+      "20O",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 285,
+    "name": "Beta -",
+    "initial": [
+      "40P",
+      "e+"
+    ],
+    "final": [
+      "40S",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 286,
+    "name": "Beta -",
+    "initial": [
+      "77Ni",
+      "e+"
+    ],
+    "final": [
+      "77Cu",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 287,
+    "name": "Beta -",
+    "initial": [
+      "9Li",
+      "e+"
+    ],
+    "final": [
+      "9Be",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 288,
+    "name": "Beta -",
+    "initial": [
+      "69Co",
+      "e+"
+    ],
+    "final": [
+      "69Ni",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 289,
+    "name": "Beta -",
+    "initial": [
+      "17C",
+      "e+"
+    ],
+    "final": [
+      "17N",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 290,
+    "name": "Beta -",
+    "initial": [
+      "26Ne",
+      "e+"
+    ],
+    "final": [
+      "26Na",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 291,
+    "name": "Beta -",
+    "initial": [
+      "52Sc",
+      "e+"
+    ],
+    "final": [
+      "52Ti",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 292,
+    "name": "Beta -",
+    "initial": [
+      "56Ti",
+      "e+"
+    ],
+    "final": [
+      "56V",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 293,
+    "name": "Beta -",
+    "initial": [
+      "66Co",
+      "e+"
+    ],
+    "final": [
+      "66Ni",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 294,
+    "name": "Beta -",
+    "initial": [
+      "56V",
+      "e+"
+    ],
+    "final": [
+      "56Cr",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 295,
+    "name": "Beta -",
+    "initial": [
+      "46Cl",
+      "e+"
+    ],
+    "final": [
+      "46Ar",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 296,
+    "name": "Beta -",
+    "initial": [
+      "76Ni",
+      "e+"
+    ],
+    "final": [
+      "76Cu",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 297,
+    "name": "Beta -",
+    "initial": [
+      "31Mg",
+      "e+"
+    ],
+    "final": [
+      "31Al",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 298,
+    "name": "Beta -",
+    "initial": [
+      "49Ar",
+      "e+"
+    ],
+    "final": [
+      "49K",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 299,
+    "name": "Beta -",
+    "initial": [
+      "43S",
+      "e+"
+    ],
+    "final": [
+      "43Cl",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Beta -",
+    "initial": [
+      "39P",
+      "e+"
+    ],
+    "final": [
+      "39S",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 301,
+    "name": "Beta -",
+    "initial": [
+      "64Co",
+      "e+"
+    ],
+    "final": [
+      "64Ni",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Beta -",
+    "initial": [
+      "27Na",
+      "e+"
+    ],
+    "final": [
+      "27Mg",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Beta -",
+    "initial": [
+      "30Mg",
+      "e+"
+    ],
+    "final": [
+      "30Al",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Beta -",
+    "initial": [
+      "67Co",
+      "e+"
+    ],
+    "final": [
+      "67Ni",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Beta -",
+    "initial": [
+      "75Ni",
+      "e+"
+    ],
+    "final": [
+      "75Cu",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 306,
+    "name": "Beta -",
+    "initial": [
+      "19N",
+      "e+"
+    ],
+    "final": [
+      "19O",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 307,
+    "name": "Beta -",
+    "initial": [
+      "51K",
+      "e+"
+    ],
+    "final": [
+      "51Ca",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 308,
+    "name": "Beta -",
+    "initial": [
+      "24F",
+      "e+"
+    ],
+    "final": [
+      "24Ne",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 309,
+    "name": "Beta -",
+    "initial": [
+      "45Cl",
+      "e+"
+    ],
+    "final": [
+      "45Ar",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 310,
+    "name": "Beta -",
+    "initial": [
+      "48Ar",
+      "e+"
+    ],
+    "final": [
+      "48K",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 311,
+    "name": "Beta -",
+    "initial": [
+      "36Si",
+      "e+"
+    ],
+    "final": [
+      "36P",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Beta -",
+    "initial": [
+      "53Ca",
+      "e+"
+    ],
+    "final": [
+      "53Sc",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 313,
+    "name": "Beta -",
+    "initial": [
+      "50K",
+      "e+"
+    ],
+    "final": [
+      "50Ca",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Beta -",
+    "initial": [
+      "74Ni",
+      "e+"
+    ],
+    "final": [
+      "74Cu",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 315,
+    "name": "Beta -",
+    "initial": [
+      "54Sc",
+      "e+"
+    ],
+    "final": [
+      "54Ti",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 316,
+    "name": "Beta -",
+    "initial": [
+      "25Ne",
+      "e+"
+    ],
+    "final": [
+      "25Na",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 317,
+    "name": "Beta -",
+    "initial": [
+      "18N",
+      "e+"
+    ],
+    "final": [
+      "18O",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 318,
+    "name": "Beta -",
+    "initial": [
+      "38P",
+      "e+"
+    ],
+    "final": [
+      "38S",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 319,
+    "name": "Beta -",
+    "initial": [
+      "31Al",
+      "e+"
+    ],
+    "final": [
+      "31Si",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 320,
+    "name": "Beta -",
+    "initial": [
+      "44Cl",
+      "e+"
+    ],
+    "final": [
+      "44Ar",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 321,
+    "name": "Beta -",
+    "initial": [
+      "16C",
+      "e+"
+    ],
+    "final": [
+      "16N",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 322,
+    "name": "Beta -",
+    "initial": [
+      "35Si",
+      "e+"
+    ],
+    "final": [
+      "35P",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 323,
+    "name": "Beta -",
+    "initial": [
+      "6He",
+      "e+"
+    ],
+    "final": [
+      "6Li",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 324,
+    "name": "Beta -",
+    "initial": [
+      "8Li",
+      "e+"
+    ],
+    "final": [
+      "8Be",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 325,
+    "name": "Beta -",
+    "initial": [
+      "73Ni",
+      "e+"
+    ],
+    "final": [
+      "73Cu",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 326,
+    "name": "Beta -",
+    "initial": [
+      "42S",
+      "e+"
+    ],
+    "final": [
+      "42Cl",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 327,
+    "name": "Beta -",
+    "initial": [
+      "26Na",
+      "e+"
+    ],
+    "final": [
+      "26Mg",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Beta -",
+    "initial": [
+      "65Co",
+      "e+"
+    ],
+    "final": [
+      "65Ni",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Beta -",
+    "initial": [
+      "15C",
+      "e+"
+    ],
+    "final": [
+      "15N",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 330,
+    "name": "Beta -",
+    "initial": [
+      "47Ar",
+      "e+"
+    ],
+    "final": [
+      "47K",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 331,
+    "name": "Beta -",
+    "initial": [
+      "49K",
+      "e+"
+    ],
+    "final": [
+      "49Ca",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 332,
+    "name": "Beta -",
+    "initial": [
+      "29Mg",
+      "e+"
+    ],
+    "final": [
+      "29Al",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 333,
+    "name": "Beta -",
+    "initial": [
+      "55Ti",
+      "e+"
+    ],
+    "final": [
+      "55V",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 334,
+    "name": "Beta -",
+    "initial": [
+      "72Ni",
+      "e+"
+    ],
+    "final": [
+      "72Cu",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 335,
+    "name": "Beta -",
+    "initial": [
+      "54Ti",
+      "e+"
+    ],
+    "final": [
+      "54V",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 336,
+    "name": "Beta -",
+    "initial": [
+      "23F",
+      "e+"
+    ],
+    "final": [
+      "23Ne",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 337,
+    "name": "Beta -",
+    "initial": [
+      "22O",
+      "e+"
+    ],
+    "final": [
+      "22F",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 338,
+    "name": "Beta -",
+    "initial": [
+      "37P",
+      "e+"
+    ],
+    "final": [
+      "37S",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 339,
+    "name": "Beta -",
+    "initial": [
+      "53Sc",
+      "e+"
+    ],
+    "final": [
+      "53Ti",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 340,
+    "name": "Beta -",
+    "initial": [
+      "15C",
+      "e+"
+    ],
+    "final": [
+      "15N",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 341,
+    "name": "Beta -",
+    "initial": [
+      "71Ni",
+      "e+"
+    ],
+    "final": [
+      "71Cu",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 342,
+    "name": "Beta -",
+    "initial": [
+      "41S",
+      "e+"
+    ],
+    "final": [
+      "41Cl",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 343,
+    "name": "Beta -",
+    "initial": [
+      "34Si",
+      "e+"
+    ],
+    "final": [
+      "34P",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 344,
+    "name": "Beta -",
+    "initial": [
+      "43Cl",
+      "e+"
+    ],
+    "final": [
+      "43Ar",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 345,
+    "name": "Beta -",
+    "initial": [
+      "16N",
+      "e+"
+    ],
+    "final": [
+      "16O",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 346,
+    "name": "Beta -",
+    "initial": [
+      "21O",
+      "e+"
+    ],
+    "final": [
+      "21F",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 347,
+    "name": "Beta -",
+    "initial": [
+      "30Al",
+      "e+"
+    ],
+    "final": [
+      "30Si",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 348,
+    "name": "Beta -",
+    "initial": [
+      "21F",
+      "e+"
+    ],
+    "final": [
+      "21Ne",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 349,
+    "name": "Beta -",
+    "initial": [
+      "17N",
+      "e+"
+    ],
+    "final": [
+      "17O",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Beta -",
+    "initial": [
+      "22F",
+      "e+"
+    ],
+    "final": [
+      "22Ne",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 351,
+    "name": "Beta -",
+    "initial": [
+      "52Ca",
+      "e+"
+    ],
+    "final": [
+      "52Sc",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 352,
+    "name": "Beta -",
+    "initial": [
+      "36P",
+      "e+"
+    ],
+    "final": [
+      "36S",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 353,
+    "name": "Beta -",
+    "initial": [
+      "70Ni",
+      "e+"
+    ],
+    "final": [
+      "70Cu",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 354,
+    "name": "Beta -",
+    "initial": [
+      "33Si",
+      "e+"
+    ],
+    "final": [
+      "33P",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 355,
+    "name": "Beta -",
+    "initial": [
+      "55V",
+      "e+"
+    ],
+    "final": [
+      "55Cr",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 356,
+    "name": "Beta -",
+    "initial": [
+      "42Cl",
+      "e+"
+    ],
+    "final": [
+      "42Ar",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 357,
+    "name": "Beta -",
+    "initial": [
+      "48K",
+      "e+"
+    ],
+    "final": [
+      "48Ca",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 358,
+    "name": "Beta -",
+    "initial": [
+      "16N",
+      "e+"
+    ],
+    "final": [
+      "16O",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 359,
+    "name": "Beta -",
+    "initial": [
+      "46Ar",
+      "e+"
+    ],
+    "final": [
+      "46K",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 360,
+    "name": "Beta -",
+    "initial": [
+      "40S",
+      "e+"
+    ],
+    "final": [
+      "40Cl",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 361,
+    "name": "Beta -",
+    "initial": [
+      "51Ca",
+      "e+"
+    ],
+    "final": [
+      "51Sc",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 362,
+    "name": "Beta -",
+    "initial": [
+      "20F",
+      "e+"
+    ],
+    "final": [
+      "20Ne",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 363,
+    "name": "Beta -",
+    "initial": [
+      "69Ni",
+      "e+"
+    ],
+    "final": [
+      "69Cu",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 364,
+    "name": "Beta -",
+    "initial": [
+      "39S",
+      "e+"
+    ],
+    "final": [
+      "39Cl",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 365,
+    "name": "Beta -",
+    "initial": [
+      "51Sc",
+      "e+"
+    ],
+    "final": [
+      "51Ti",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 366,
+    "name": "Beta -",
+    "initial": [
+      "34P",
+      "e+"
+    ],
+    "final": [
+      "34S",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 367,
+    "name": "Beta -",
+    "initial": [
+      "20O",
+      "e+"
+    ],
+    "final": [
+      "20F",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 368,
+    "name": "Beta -",
+    "initial": [
+      "11Be",
+      "e+"
+    ],
+    "final": [
+      "11B",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 369,
+    "name": "Beta -",
+    "initial": [
+      "50Ca",
+      "e+"
+    ],
+    "final": [
+      "50Sc",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 370,
+    "name": "Beta -",
+    "initial": [
+      "47K",
+      "e+"
+    ],
+    "final": [
+      "47Ca",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 371,
+    "name": "Beta -",
+    "initial": [
+      "67Ni",
+      "e+"
+    ],
+    "final": [
+      "67Cu",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 372,
+    "name": "Beta -",
+    "initial": [
+      "45Ar",
+      "e+"
+    ],
+    "final": [
+      "45K",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 373,
+    "name": "Beta -",
+    "initial": [
+      "19O",
+      "e+"
+    ],
+    "final": [
+      "19F",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 374,
+    "name": "Beta -",
+    "initial": [
+      "63Co",
+      "e+"
+    ],
+    "final": [
+      "63Ni",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 375,
+    "name": "Beta -",
+    "initial": [
+      "68Ni",
+      "e+"
+    ],
+    "final": [
+      "68Cu",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 376,
+    "name": "Beta -",
+    "initial": [
+      "53Ti",
+      "e+"
+    ],
+    "final": [
+      "53V",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 377,
+    "name": "Beta -",
+    "initial": [
+      "23Ne",
+      "e+"
+    ],
+    "final": [
+      "23Na",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 378,
+    "name": "Beta -",
+    "initial": [
+      "41Cl",
+      "e+"
+    ],
+    "final": [
+      "41Ar",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 379,
+    "name": "Beta -",
+    "initial": [
+      "35P",
+      "e+"
+    ],
+    "final": [
+      "35S",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 380,
+    "name": "Beta -",
+    "initial": [
+      "54V",
+      "e+"
+    ],
+    "final": [
+      "54Cr",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 381,
+    "name": "CNO",
+    "initial": [
+      "15O",
+      "e-"
+    ],
+    "final": [
+      "15N",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 382,
+    "name": "Beta -",
+    "initial": [
+      "25Na",
+      "e+"
+    ],
+    "final": [
+      "25Mg",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 383,
+    "name": "Beta -",
+    "initial": [
+      "40Cl",
+      "e+"
+    ],
+    "final": [
+      "40Ar",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 384,
+    "name": "Beta -",
+    "initial": [
+      "62Co",
+      "e+"
+    ],
+    "final": [
+      "62Ni",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 385,
+    "name": "Beta -",
+    "initial": [
+      "53V",
+      "e+"
+    ],
+    "final": [
+      "53Cr",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 386,
+    "name": "Beta -",
+    "initial": [
+      "52Ti",
+      "e+"
+    ],
+    "final": [
+      "52V",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 387,
+    "name": "Beta -",
+    "initial": [
+      "50Sc",
+      "e+"
+    ],
+    "final": [
+      "50Ti",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 388,
+    "name": "Beta -",
+    "initial": [
+      "46K",
+      "e+"
+    ],
+    "final": [
+      "46Ca",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 389,
+    "name": "Beta -",
+    "initial": [
+      "28Al",
+      "e+"
+    ],
+    "final": [
+      "28Si",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 390,
+    "name": "Beta -",
+    "initial": [
+      "24Ne",
+      "e+"
+    ],
+    "final": [
+      "24Na",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 391,
+    "name": "Beta -",
+    "initial": [
+      "55Cr",
+      "e+"
+    ],
+    "final": [
+      "55Mn",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 392,
+    "name": "Beta -",
+    "initial": [
+      "52V",
+      "e+"
+    ],
+    "final": [
+      "52Cr",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 393,
+    "name": "Beta -",
+    "initial": [
+      "13N",
+      "e+"
+    ],
+    "final": [
+      "13C",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 394,
+    "name": "Beta -",
+    "initial": [
+      "37S",
+      "e+"
+    ],
+    "final": [
+      "37Cl",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 395,
+    "name": "Beta -",
+    "initial": [
+      "43Ar",
+      "e+"
+    ],
+    "final": [
+      "43K",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 396,
+    "name": "Beta -",
+    "initial": [
+      "51Ti",
+      "e+"
+    ],
+    "final": [
+      "51V",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 397,
+    "name": "Beta -",
+    "initial": [
+      "56Cr",
+      "e+"
+    ],
+    "final": [
+      "56Mn",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 398,
+    "name": "Beta -",
+    "initial": [
+      "29Al",
+      "e+"
+    ],
+    "final": [
+      "29Si",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 399,
+    "name": "Beta -",
+    "initial": [
+      "49Ca",
+      "e+"
+    ],
+    "final": [
+      "49Sc",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 400,
+    "name": "Beta -",
+    "initial": [
+      "27Mg",
+      "e+"
+    ],
+    "final": [
+      "27Al",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 401,
+    "name": "Beta -",
+    "initial": [
+      "n",
+      "e+"
+    ],
+    "final": [
+      "p+",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Beta -",
+    "initial": [
+      "44Ar",
+      "e+"
+    ],
+    "final": [
+      "44K",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 403,
+    "name": "Beta -",
+    "initial": [
+      "45K",
+      "e+"
+    ],
+    "final": [
+      "45Ca",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 404,
+    "name": "Beta -",
+    "initial": [
+      "44K",
+      "e+"
+    ],
+    "final": [
+      "44Ca",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 405,
+    "name": "Beta -",
+    "initial": [
+      "38Cl",
+      "e+"
+    ],
+    "final": [
+      "38Ar",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 406,
+    "name": "Beta -",
+    "initial": [
+      "39Cl",
+      "e+"
+    ],
+    "final": [
+      "39Ar",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 407,
+    "name": "Beta -",
+    "initial": [
+      "49Sc",
+      "e+"
+    ],
+    "final": [
+      "49Ti",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 408,
+    "name": "Beta -",
+    "initial": [
+      "61Co",
+      "e+"
+    ],
+    "final": [
+      "61Ni",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 409,
+    "name": "Beta -",
+    "initial": [
+      "41Ar",
+      "e+"
+    ],
+    "final": [
+      "41K",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 410,
+    "name": "Beta -",
+    "initial": [
+      "65Ni",
+      "e+"
+    ],
+    "final": [
+      "65Cu",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 411,
+    "name": "Beta -",
+    "initial": [
+      "56Mn",
+      "e+"
+    ],
+    "final": [
+      "56Fe",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 412,
+    "name": "Beta -",
+    "initial": [
+      "31Si",
+      "e+"
+    ],
+    "final": [
+      "31P",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 413,
+    "name": "Beta -",
+    "initial": [
+      "38S",
+      "e+"
+    ],
+    "final": [
+      "38Cl",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 414,
+    "name": "Beta -",
+    "initial": [
+      "48Cr",
+      "e+"
+    ],
+    "final": [
+      "48V",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 415,
+    "name": "Beta -",
+    "initial": [
+      "42K",
+      "e+"
+    ],
+    "final": [
+      "42Ca",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 416,
+    "name": "Beta -",
+    "initial": [
+      "24Na",
+      "e+"
+    ],
+    "final": [
+      "24Mg",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 417,
+    "name": "Beta -",
+    "initial": [
+      "28Mg",
+      "e+"
+    ],
+    "final": [
+      "28Al",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 418,
+    "name": "Beta -",
+    "initial": [
+      "43K",
+      "e+"
+    ],
+    "final": [
+      "43Ca",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 419,
+    "name": "Beta -",
+    "initial": [
+      "48Sc",
+      "e+"
+    ],
+    "final": [
+      "48Ti",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 420,
+    "name": "Beta -",
+    "initial": [
+      "66Ni",
+      "e+"
+    ],
+    "final": [
+      "66Cu",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 421,
+    "name": "Beta -",
+    "initial": [
+      "47Sc",
+      "e+"
+    ],
+    "final": [
+      "47Ti",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 422,
+    "name": "Beta -",
+    "initial": [
+      "47Ca",
+      "e+"
+    ],
+    "final": [
+      "47Sc",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 423,
+    "name": "Beta -",
+    "initial": [
+      "48V",
+      "e+"
+    ],
+    "final": [
+      "48Ti",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 424,
+    "name": "Beta -",
+    "initial": [
+      "32P",
+      "e+"
+    ],
+    "final": [
+      "32S",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 425,
+    "name": "Beta -",
+    "initial": [
+      "33P",
+      "e+"
+    ],
+    "final": [
+      "33S",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 426,
+    "name": "Beta -",
+    "initial": [
+      "46Sc",
+      "e+"
+    ],
+    "final": [
+      "46Ti",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 427,
+    "name": "Beta -",
+    "initial": [
+      "35S",
+      "e+"
+    ],
+    "final": [
+      "35Cl",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 428,
+    "name": "Beta -",
+    "initial": [
+      "45Ca",
+      "e+"
+    ],
+    "final": [
+      "45Sc",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 429,
+    "name": "Beta -",
+    "initial": [
+      "60Co",
+      "e+"
+    ],
+    "final": [
+      "60Ni",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 430,
+    "name": "Beta -",
+    "initial": [
+      "3H",
+      "e+"
+    ],
+    "final": [
+      "3He",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 431,
+    "name": "Beta -",
+    "initial": [
+      "42Ar",
+      "e+"
+    ],
+    "final": [
+      "42K",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 432,
+    "name": "Beta -",
+    "initial": [
+      "63Ni",
+      "e+"
+    ],
+    "final": [
+      "63Cu",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 433,
+    "name": "Beta -",
+    "initial": [
+      "32Si",
+      "e+"
+    ],
+    "final": [
+      "32P",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 434,
+    "name": "Beta -",
+    "initial": [
+      "39Ar",
+      "e+"
+    ],
+    "final": [
+      "39K",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 435,
+    "name": "Beta -",
+    "initial": [
+      "14C",
+      "e+"
+    ],
+    "final": [
+      "14N",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 436,
+    "name": "Beta -",
+    "initial": [
+      "36Cl",
+      "e+"
+    ],
+    "final": [
+      "36Ar",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 437,
+    "name": "Beta -",
+    "initial": [
+      "10Be",
+      "e+"
+    ],
+    "final": [
+      "10B",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 438,
+    "name": "Beta -",
+    "initial": [
+      "40K",
+      "e+"
+    ],
+    "final": [
+      "40Ca",
+      "nu_e_bar"
+    ]
+  },
+  {
+    "id": 439,
+    "name": "Anihilation",
+    "initial": [ "n", "n_bar" ],
+    "final": [ "gamma", "gamma" ]
+  },
+  {
+    "id": 440,
+    "name": "Anihilation",
+    "initial": [ "nu_e", "nu_e_bar" ],
+    "final": [ "gamma", "gamma" ]
+  },
+  {
+    "id": 442,
+    "name": "Pair production",
+    "initial": [ "gamma", "gamma" ],
+    "final": [ "p-", "p+" ]
+  },
+  {
+    "id": 443,
+    "name": "Pair production",
+    "initial": [ "gamma", "gamma" ],
+    "final": [ "n", "n_bar" ]
+  },
+  {
+    "id": 444,
+    "name": "Neutron -> proton reaction",
+    "initial": [ "n", "p-" ],
+    "final": [ "e-", "nu_e_bar" ]
+  },
+  {
+    "id": 445,
+    "name": "Neutron -> proton reaction",
+    "initial": [ "n", "e+" ],
+    "final": [ "p+", "nu_e_bar" ]
+  },
+  {
+    "id": 446,
+    "name": "Neutron -> proton reaction",
+    "initial": [ "n", "nu_e" ],
+    "final": [ "p+", "e-" ]
+  },
+  {
+    "id": 447,
+    "name": "Neutron -> proton reaction",
+    "initial": [ "n_bar", "p+" ],
+    "final": [ "e+", "nu_e" ]
+  },
+  {
+    "id": 448,
+    "name": "Neutron -> proton reaction",
+    "initial": [ "n_bar", "e-" ],
+    "final": [ "p-", "nu_e" ]
+  },
+  {
+    "id": 449,
+    "name": "Neutron -> proton reaction",
+    "initial": [ "n_bar", "nu_e_bar" ],
+    "final": [ "p-", "e+" ]
+  },
+  {
+    "id": 450,
+    "name": "Proton -> neutron reaction",
+    "initial": [ "p+", "e-" ],
+    "final": [ "n", "nu_e" ]
+  },
+  {
+    "id": 451,
+    "name": "Proton -> neutron reaction",
+    "initial": [ "p+", "nu_e_bar" ],
+    "final": [ "n", "e+" ]
+  },
+  {
+    "id": 452,
+    "name": "Proton -> neutron reaction",
+    "initial": [ "p-", "e+" ],
+    "final": [ "n_bar", "nu_e_bar" ]
+  },
+  {
+    "id": 453,
+    "name": "Proton -> neutron reaction",
+    "initial": [ "p-", "nu_e" ],
+    "final": [ "n_bar", "e-" ]
+  },
+  {
+    "id": 454,
+    "name": "Proton -> neutron reaction",
+    "initial": [ "e-", "nu_e_bar" ],
+    "final": [ "n", "p-" ]
+  },
+  {
+    "id": 455,
+    "name": "Proton -> neutron reaction",
+    "initial": [ "e+", "nu_e" ],
+    "final": [ "n_bar", "p+" ]
+  }
+]

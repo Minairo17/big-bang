@@ -1,0 +1,116 @@
+{
+  "box2d":{
+    "physics":{
+      "density":1.0,
+      "bounce":1.0,
+      "friction": 0.0
+    }
+  },
+  "OF":{
+    "backgroundColor":"0x2a9d8f",
+    "title":"BigBang",
+    "frameRate": 60
+  },
+  "OSC":{
+    "portIn": 12345
+  },
+  "gui":{
+    "energyMax":30,
+    "energyMin":0.00001,
+    "initialEnergy":20,
+    "title": "Big Bang Parameters",
+    "min":0.00001,
+    "max":30,
+    "sigma": 0.2,
+    "radiusMax":400,
+    "radiusMin": 10,
+    "radiusInitial":400,
+    "brightness":30,
+    "scale":3,
+    "threshold": 0
+  },
+  "initialParticles":{
+    "gamma": 20,
+    "p+": 20,
+    "p-": 20,
+    "n0":20,
+    "n0_bar":20,
+    "e-":20,
+    "e+":20,
+    "nu_e":0,
+    "nu_ebar":0,
+    "H0":0,
+    "H0_bar":0,
+    "H2":0,
+    "H2_bar":0,
+    "H2+":0,
+    "H2_bar-":0,
+    "H3":0,
+    "H3_bar":0,
+    "H3+":0,
+    "H3_bar-":0,
+    "He3":0,
+    "He3_bar":0,
+    "He3+":0,
+    "He3_bar-":0,
+    "He3++":0,
+    "He3_bar--":0,
+    "He4":0,
+    "He4_bar":0,
+    "He4+":0,
+    "He4_bar-":0,
+    "He4++":0,
+    "He4_bar--":0
+  },
+  "interactions": [
+    "Particle desintegration",
+    "Anihilation",
+    "Pair production",
+    "PPChain",
+    "Anti-PPChain",
+    "Nuclei desintegration",
+    "Light element synthesis",
+    "Ionization"
+  ],
+  "interactionsAll":[
+    "Neutron -> proton reaction",
+    "Proton -> neutron reaction",
+    "Particle desintegration",
+    "Anihilation",
+    "Pair production",
+    "PPChain",
+    "Anti-PPChain",
+    "Nuclei desintegration",
+    "Light element synthesis",
+    "Ionization"
+  ],
+  "plotParticles":[
+    "n0","p+","e-","e+","p-","n0_bar","H3","He3","He4"
+  ],
+  "allParticles":[
+    "n0","p+","e-","gamma","n0_bar","p-","e+","nu_e","nu_ebar","H0","H0_bar","H2","H2_bar","H2+","H2_bar-","H3","H3_bar","H3+","H3_bar-","He3","He3_bar","He3+","He3_bar-","He3++","He3_bar--","He4","He4_bar","He4+","He4_bar-","He4++","He4_bar--"
+  ],
+  "edges":{
+    "gamma":{
+      "energyMin":0.1
+    }
+  },
+  "bloom":{
+    "charged":{
+      "brightness":9.6,
+      "scale":1.1,
+      "threshold":0
+    },
+    "gamma":{
+      "brightness":30,
+      "scale":3,
+      "threshold":0
+    }
+  },
+  "graph":{
+    "particles":["e-","e+","p-","p+","n0","n0_bar","gamma"],
+    "atoms":["H0","H0_bar","H2","H2_bar","H3","H3_bar","He3","He3_bar","He4","He4_bar"],
+    "nuclei":["H2+","H2_bar-","H3+","H3_bar-","He3+","He3_bar-","He3++","He3_bar--","He4+","He4_bar-","He4++","He4_bar--"],
+    "neutrinos":["nu_e","nu_ebar"]
+  }
+}

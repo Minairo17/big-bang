@@ -1,0 +1,346 @@
+{
+"particles":{
+  "n0":{
+    "name":"neutron",
+    "mass": 939.56542052,
+    "composition":["u","d","d"],
+    "charge":0,
+    "type": "matter",
+    "settings":{
+      "color":"0xDD514C",
+      "radius": 3.0
+    }
+  },  
+  "n0_bar":{
+    "name":"anti-neutron",
+    "mass": 939.56542052,
+    "composition":["u_bar","d_bar","d_bar"],
+    "charge":0,
+    "type": "antimatter",
+    "settings":{
+      "color":"0xDD514C",
+      "radius": 3.0
+    }
+  },
+  "e-":{
+    "name":"electron",
+    "mass": 0.51099895,
+    "composition":[],
+    "charge":-1,
+    "type": "matter",
+    "settings": {
+      "color":"0x5EB95E",
+      "radius": 3.0
+    }
+  },
+  "e+":{
+    "name":"positron",
+    "mass": 0.51099895,
+    "composition":[],
+    "charge":1,
+    "type": "antimatter",
+    "settings": {
+      "color":"0x5EB95E",
+      "radius": 3.0
+    }
+  },
+  "p+":{
+    "name":"proton",
+    "mass": 938.27208816,
+    "composition":["u","u","d"],
+    "charge":1,
+    "type": "matter",
+    "settings":{
+        "color":"0x1F8DD6",
+        "radius": 3.0
+    }
+  },
+  "p-":{
+    "name":"anti-proton",
+    "mass": 938.27208816,
+    "composition":["u_bar","u_bar","d_bar"],
+    "charge":-1,
+    "type": "antimatter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 3.0
+  }
+  },
+  "gamma":{
+    "name":"gamma",
+    "composition":[],
+    "mass": 0,
+    "charge":0,
+    "type": "boson",
+    "settings": {
+      "color":"0xFAD232",
+      "radius": 2.0
+    }
+  },
+  "nu_e":{
+    "name":"neutrino",
+    "mass": 0.0000011,
+    "composition":[],
+    "charge":0,
+    "type": "matter",
+    "settings":{
+      "color":"0x235D3A",
+      "radius": 2.0
+    }
+  },
+  "nu_ebar":{
+    "name":"anti-neutrino",
+    "mass": 0.0000011,
+    "composition":[],
+    "charge":0,
+    "type": "antimatter",
+    "settings":{
+      "color":"0x235D3A",
+      "name":"nu_ebar",
+      "radius": 2.0
+    }
+  },
+  "H0":{
+    "name":"protium",
+    "mass": 938.78307348,
+    "composition":["p+","e-"],
+    "charge":0,
+    "type": "matter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 5.0
+    }
+  },
+  "H2+":{
+    "name":"deuteron",
+    "mass": 1875.61294257,
+    "composition":["p+","n0"],
+    "charge":1,
+    "type": "matter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 5.0      
+    }
+  },
+  "H2":{
+    "name":"deuterium",
+    "mass": 1876.12392798,
+    "composition":["p+","n0", "e-"],
+    "charge":0,
+    "type": "matter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 5.0      
+    }
+  },
+  "H3+":{
+    "name":"triton",
+    "mass": 2808.92113298,
+    "composition":["p+","n0","n0"],
+    "charge":2,
+    "type": "matter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 5.0      
+    }
+  },
+  "H3":{
+    "name":"tritium",
+    "mass": 2809.43211815,
+    "composition":["p+","n0","n0","e-"],
+    "charge":2,
+    "type": "matter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 5.0
+    }
+  },
+  "He3++":{
+    "name":"helion",
+    "mass": 2808.39160743,
+    "composition":["p+","p+","n0"],
+    "charge":2,
+    "type": "matter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 5.0
+    }
+  },
+  "He3+":{
+    "name":"helium-3 ion",
+    "mass": 2808.90259273,
+    "composition":["p+","p+","n0","e-"],
+    "charge":1,
+    "type": "matter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 5.0
+    }
+  },
+  "He3":{
+    "name":"helium-3",
+    "mass": 2809.41352613,
+    "composition":["p+","p+","n0","e-","e-"],
+    "charge":0,
+    "type": "matter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 5.0
+    }
+  },
+  "He4++":{
+    "name":"alpha",
+    "mass": 3727.37940660,
+    "composition":["p+","p+","n0","n0"],
+    "charge":2,
+    "type": "matter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 5.0
+    }
+  },
+  "He4+":{
+    "name":"helium ion",
+    "mass": 3727.89039190,
+    "composition":["p+","p+","n0","n0","e-"],
+    "charge":1,
+    "type": "matter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 5.0
+    }
+  },
+  "He4":{
+    "name":"helium",
+    "mass": 3728.40132553,
+    "composition":["p+","p+","n0","n0","e-","e-"],
+    "charge":0,
+    "type": "matter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 5.0
+    }
+  },
+  "H0_bar":{
+    "name":"anti-protium",
+    "mass": 938.78307348,
+    "composition":["p-","e+"],
+    "charge":0,
+    "type": "antimatter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 4.0
+    }
+  },
+  "H2_bar-":{
+    "name":"anti-deuteron",
+    "mass": 1875.61294257,
+    "composition":["p-","n0_bar"],
+    "charge":1,
+    "type": "antimatter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 4.0      
+    }
+  },
+  "H2_bar":{
+    "name":"anti-deuterium",
+    "mass": 1876.12392798,
+    "composition":["p-","n0_bar", "e+"],
+    "charge":0,
+    "type": "antimatter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 4.0      
+    }
+  },
+  "H3_bar-":{
+    "name":"anti-triton",
+    "mass": 2808.92113298,
+    "composition":["p-","n0_bar","n0_bar"],
+    "charge":2,
+    "type": "antimatter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 4.0      
+    }
+  },
+  "H3_bar":{
+    "name":"anti-tritium",
+    "mass": 2809.43211815,
+    "composition":["p-","n0_bar","n0_bar","e+"],
+    "charge":2,
+    "type": "antimatter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 4.0     
+    }
+  },
+  "He3_bar--":{
+    "name":"anti-helion",
+    "mass": 2808.39160743,
+    "composition":["p-","p-","n0_bar"],
+    "charge":2,
+    "type": "antimatter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 5.0
+    }
+  },
+  "He3_bar-":{
+    "name":"anti-helium-3 ion",
+    "mass": 2808.90259273,
+    "composition":["p-","p-","n0_bar","e+"],
+    "charge":1,
+    "type": "antimatter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 5.0
+    }
+  },
+  "He3_bar":{
+    "name":"anti-helium-3",
+    "mass": 2809.41352613,
+    "composition":["p-","p-","n0_bar","e+","e+"],
+    "charge":0,
+    "type": "matter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 5.0
+    }
+  },
+  "He4_bar--":{
+    "name":"anti-alpha",
+    "mass": 3727.37940660,
+    "composition":["p-","p-","n0_bar","n0_bar"],
+    "charge":2,
+    "type": "antimatter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 5.0
+    }
+  },
+  "He4_bar-":{
+    "name":"anti-helium ion",
+    "mass": 3727.89039190,
+    "composition":["p-","p-","n0_bar","n0_bar","e+"],
+    "charge":1,
+    "type": "antimatter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 5.0
+    }
+  },
+  "He4_bar":{
+    "name":"anti-helium",
+    "mass": 3728.40132553,
+    "composition":["p-","p-","n0_bar","n0_bar","e+","e+"],
+    "charge":0,
+    "type": "antimatter",
+    "settings":{
+      "color":"0x1F8DD6",
+      "radius": 5.0
+    }
+  }
+}
+}
